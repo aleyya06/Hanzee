@@ -1,0 +1,214 @@
+{
+ "items": [
+  {
+   "id": "first_lesson",
+   "title": {
+    "id": "Langkah pertama",
+    "en": "First step"
+   },
+   "description": {
+    "id": "Selesaikan pelajaran pertamamu.",
+    "en": "Finish your first lesson."
+   },
+   "metric": "lessons",
+   "threshold": 1,
+   "illustration": "flower"
+  },
+  {
+   "id": "lessons_10",
+   "title": {
+    "id": "Rajin belajar",
+    "en": "Steady learner"
+   },
+   "description": {
+    "id": "Selesaikan 10 pelajaran.",
+    "en": "Finish 10 lessons."
+   },
+   "metric": "lessons",
+   "threshold": 10,
+   "illustration": "tree"
+  },
+  {
+   "id": "words_10",
+   "title": {
+    "id": "10 kata",
+    "en": "10 words"
+   },
+   "description": {
+    "id": "Pelajari 10 kata.",
+    "en": "Learn 10 words."
+   },
+   "metric": "words",
+   "threshold": 10,
+   "illustration": "grass"
+  },
+  {
+   "id": "words_50",
+   "title": {
+    "id": "50 kata",
+    "en": "50 words"
+   },
+   "description": {
+    "id": "Pelajari 50 kata.",
+    "en": "Learn 50 words."
+   },
+   "metric": "words",
+   "threshold": 50,
+   "illustration": "butterfly"
+  },
+  {
+   "id": "words_150",
+   "title": {
+    "id": "150 kata",
+    "en": "150 words"
+   },
+   "description": {
+    "id": "Pelajari 150 kata.",
+    "en": "Learn 150 words."
+   },
+   "metric": "words",
+   "threshold": 150,
+   "illustration": "dictionary"
+  },
+  {
+   "id": "words_300",
+   "title": {
+    "id": "Kosakata HSK 1",
+    "en": "HSK 1 vocabulary"
+   },
+   "description": {
+    "id": "Pelajari 300 kata, sebanyak kosakata HSK 1.",
+    "en": "Learn 300 words, as many as HSK 1 has."
+   },
+   "metric": "words",
+   "threshold": 300,
+   "illustration": "panda_animal"
+  },
+  {
+   "id": "words_1000",
+   "title": {
+    "id": "Kosakata HSK 3",
+    "en": "HSK 3 vocabulary"
+   },
+   "description": {
+    "id": "Pelajari 1.000 kata, sebanyak kosakata HSK 1 sampai 3.",
+    "en": "Learn 1,000 words, as many as HSK 1 to 3 have."
+   },
+   "metric": "words",
+   "threshold": 1000,
+   "illustration": "library"
+  },
+  {
+   "id": "streak_3",
+   "title": {
+    "id": "3 hari berturut-turut",
+    "en": "3-day streak"
+   },
+   "description": {
+    "id": "Belajar 3 hari berturut-turut.",
+    "en": "Study 3 days in a row."
+   },
+   "metric": "streak",
+   "threshold": 3,
+   "illustration": "sun"
+  },
+  {
+   "id": "streak_7",
+   "title": {
+    "id": "Seminggu penuh",
+    "en": "A full week"
+   },
+   "description": {
+    "id": "Belajar 7 hari berturut-turut.",
+    "en": "Study 7 days in a row."
+   },
+   "metric": "streak",
+   "threshold": 7,
+   "illustration": "moon"
+  },
+  {
+   "id": "chars_10",
+   "title": {
+    "id": "Kuas pertama",
+    "en": "First brush"
+   },
+   "description": {
+    "id": "Tulis 10 karakter di Lab Menulis.",
+    "en": "Write 10 characters in the Writing Lab."
+   },
+   "metric": "characters",
+   "threshold": 10,
+   "illustration": "pencil"
+  },
+  {
+   "id": "chars_50",
+   "title": {
+    "id": "Tangan terlatih",
+    "en": "Practised hand"
+   },
+   "description": {
+    "id": "Tulis 50 karakter di Lab Menulis.",
+    "en": "Write 50 characters in the Writing Lab."
+   },
+   "metric": "characters",
+   "threshold": 50,
+   "illustration": "blackboard"
+  },
+  {
+   "id": "perfect_quiz",
+   "title": {
+    "id": "Tanpa salah",
+    "en": "Flawless"
+   },
+   "description": {
+    "id": "Jawab semua soal latihan dengan benar.",
+    "en": "Get every question in a practice set right."
+   },
+   "metric": "perfect",
+   "threshold": 1,
+   "illustration": "color_yellow"
+  },
+  {
+   "id": "daily_flow",
+   "title": {
+    "id": "Rutinitas harian",
+    "en": "Daily routine"
+   },
+   "description": {
+    "id": "Selesaikan sesi harian 20 menit.",
+    "en": "Complete the 20-minute daily session."
+   },
+   "metric": "daily",
+   "threshold": 1,
+   "illustration": "tea"
+  },
+  {
+   "id": "unit_1",
+   "title": {
+    "id": "Unit pertama",
+    "en": "First unit"
+   },
+   "description": {
+    "id": "Selesaikan uji unit pertama.",
+    "en": "Pass your first unit test."
+   },
+   "metric": "units",
+   "threshold": 1,
+   "illustration": "school"
+  },
+  {
+   "id": "reviews_50",
+   "title": {
+    "id": "Ingatan kuat",
+    "en": "Strong memory"
+   },
+   "description": {
+    "id": "Ulangi 50 kartu kosakata.",
+    "en": "Review 50 flashcards."
+   },
+   "metric": "reviews",
+   "threshold": 50,
+   "illustration": "notebook"
+  }
+ ]
+}

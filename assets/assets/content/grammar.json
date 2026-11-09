@@ -1,0 +1,1659 @@
+{
+ "meta": {
+  "status": "sample: level placement follows common HSK 2.0 course order; verify against the official grammar outline before release"
+ },
+ "items": [
+  {
+   "id": "g1_shi",
+   "hskLevel": 1,
+   "title": {
+    "id": "Kalimat dengan 是",
+    "en": "Sentences with 是"
+   },
+   "pattern": "A 是 B",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "是",
+     "role": "key"
+    },
+    {
+     "text": "Kata benda",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "是 (shì) menghubungkan dua kata benda, mirip \"adalah\". Gunakan untuk menyebut siapa atau apa sesuatu itu. Jangan pakai 是 sebelum kata sifat.",
+    "en": "是 (shì) links two nouns, like \"to be\". Use it to say who or what something is. Do not put 是 before an adjective."
+   },
+   "examples": [
+    {
+     "hanzi": "我是学生。",
+     "pinyin": "Wǒ shì xuésheng.",
+     "id": "Saya pelajar.",
+     "en": "I'm a student."
+    },
+    {
+     "hanzi": "他是老师。",
+     "pinyin": "Tā shì lǎoshī.",
+     "id": "Dia guru.",
+     "en": "He's a teacher."
+    },
+    {
+     "hanzi": "这是我的书。",
+     "pinyin": "Zhè shì wǒ de shū.",
+     "id": "Ini buku saya.",
+     "en": "This is my book."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我是高兴。",
+     "right": "我很高兴。",
+     "note": {
+      "id": "Untuk kata sifat, pakai 很, bukan 是.",
+      "en": "With adjectives use 很, not 是."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_shi_x1",
+    "g1_shi_x2"
+   ]
+  },
+  {
+   "id": "g1_ma",
+   "hskLevel": 1,
+   "title": {
+    "id": "Pertanyaan ya/tidak dengan 吗",
+    "en": "Yes/no questions with 吗"
+   },
+   "pattern": "Kalimat + 吗？",
+   "structure": [
+    {
+     "text": "Pernyataan",
+     "role": "subject"
+    },
+    {
+     "text": "吗",
+     "role": "key"
+    },
+    {
+     "text": "？",
+     "role": "extra"
+    }
+   ],
+   "explanation": {
+    "id": "Tambahkan 吗 (ma) di akhir pernyataan untuk membuat pertanyaan ya/tidak. Urutan kata tidak berubah.",
+    "en": "Add 吗 (ma) to the end of a statement to turn it into a yes/no question. Word order stays the same."
+   },
+   "examples": [
+    {
+     "hanzi": "你是学生吗？",
+     "pinyin": "Nǐ shì xuésheng ma?",
+     "id": "Apakah kamu pelajar?",
+     "en": "Are you a student?"
+    },
+    {
+     "hanzi": "你喜欢茶吗？",
+     "pinyin": "Nǐ xǐhuan chá ma?",
+     "id": "Kamu suka teh?",
+     "en": "Do you like tea?"
+    },
+    {
+     "hanzi": "他是中国人吗？",
+     "pinyin": "Tā shì Zhōngguó rén ma?",
+     "id": "Apakah dia orang Tiongkok?",
+     "en": "Is he Chinese?"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "你是谁吗？",
+     "right": "你是谁？",
+     "note": {
+      "id": "Kalimat dengan kata tanya (谁, 什么, 哪儿) tidak memakai 吗.",
+      "en": "Questions that already have a question word (谁, 什么, 哪儿) do not take 吗."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_ma_x1",
+    "g1_ma_x2"
+   ]
+  },
+  {
+   "id": "g1_ne",
+   "hskLevel": 1,
+   "title": {
+    "id": "Bertanya balik dengan 呢",
+    "en": "Follow-up questions with 呢"
+   },
+   "pattern": "Topik + 呢？",
+   "structure": [
+    {
+     "text": "Topik",
+     "role": "subject"
+    },
+    {
+     "text": "呢",
+     "role": "key"
+    },
+    {
+     "text": "？",
+     "role": "extra"
+    }
+   ],
+   "explanation": {
+    "id": "呢 (ne) dipakai untuk bertanya balik, seperti \"kalau kamu?\". Bisa juga untuk menanyakan di mana sesuatu: 我的书呢？",
+    "en": "呢 (ne) asks a follow-up question, like \"and you?\". It can also ask where something is: 我的书呢？"
+   },
+   "examples": [
+    {
+     "hanzi": "我很好，你呢？",
+     "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+     "id": "Saya baik, kamu?",
+     "en": "I'm fine, and you?"
+    },
+    {
+     "hanzi": "我是学生，你呢？",
+     "pinyin": "Wǒ shì xuésheng, nǐ ne?",
+     "id": "Saya pelajar, kalau kamu?",
+     "en": "I'm a student, and you?"
+    },
+    {
+     "hanzi": "我的书呢？",
+     "pinyin": "Wǒ de shū ne?",
+     "id": "Buku saya mana?",
+     "en": "Where's my book?"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "你好吗呢？",
+     "right": "你好吗？",
+     "note": {
+      "id": "Jangan menumpuk 吗 dan 呢 dalam satu pertanyaan.",
+      "en": "Do not stack 吗 and 呢 in one question."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_ne_x1",
+    "g1_ne_x2"
+   ]
+  },
+  {
+   "id": "g1_qw",
+   "hskLevel": 1,
+   "title": {
+    "id": "Kata tanya tetap di tempatnya",
+    "en": "Question words stay in place"
+   },
+   "pattern": "你叫什么名字？",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "Kata kerja",
+     "role": "verb"
+    },
+    {
+     "text": "Kata tanya",
+     "role": "key"
+    }
+   ],
+   "explanation": {
+    "id": "Dalam bahasa Mandarin, kata tanya (什么 apa, 谁 siapa, 哪儿 di mana, 几 berapa) berada di posisi jawabannya. Tidak dipindah ke depan seperti dalam bahasa Inggris.",
+    "en": "In Mandarin a question word (什么 what, 谁 who, 哪儿 where, 几 how many) sits where the answer would go. It does not move to the front as in English."
+   },
+   "examples": [
+    {
+     "hanzi": "你叫什么名字？",
+     "pinyin": "Nǐ jiào shénme míngzi?",
+     "id": "Siapa namamu?",
+     "en": "What's your name?"
+    },
+    {
+     "hanzi": "他是谁？",
+     "pinyin": "Tā shì shéi?",
+     "id": "Dia siapa?",
+     "en": "Who is he?"
+    },
+    {
+     "hanzi": "你去哪儿？",
+     "pinyin": "Nǐ qù nǎr?",
+     "id": "Kamu mau ke mana?",
+     "en": "Where are you going?"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "什么你叫名字？",
+     "right": "你叫什么名字？",
+     "note": {
+      "id": "Kata tanya tidak pindah ke awal kalimat.",
+      "en": "The question word does not move to the start of the sentence."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_qw_x1",
+    "g1_qw_x2"
+   ]
+  },
+  {
+   "id": "g1_measure",
+   "hskLevel": 1,
+   "title": {
+    "id": "Angka + kata penggolong",
+    "en": "Numbers with measure words"
+   },
+   "pattern": "Angka + 个/本 + Benda",
+   "structure": [
+    {
+     "text": "Angka",
+     "role": "adjective"
+    },
+    {
+     "text": "Penggolong",
+     "role": "key"
+    },
+    {
+     "text": "Benda",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "Di antara angka dan kata benda harus ada kata penggolong. 个 (ge) paling umum, 本 (běn) untuk buku. Untuk \"dua\" sebelum penggolong, pakai 两 (liǎng), bukan 二.",
+    "en": "A measure word must sit between a number and a noun. 个 (ge) is the general one, 本 (běn) is for books. For \"two\" before a measure word, use 两 (liǎng), not 二."
+   },
+   "examples": [
+    {
+     "hanzi": "我有三本书。",
+     "pinyin": "Wǒ yǒu sān běn shū.",
+     "id": "Saya punya tiga buku.",
+     "en": "I have three books."
+    },
+    {
+     "hanzi": "他有一个儿子。",
+     "pinyin": "Tā yǒu yí ge érzi.",
+     "id": "Dia punya seorang anak laki-laki.",
+     "en": "He has a son."
+    },
+    {
+     "hanzi": "这个杯子很大。",
+     "pinyin": "Zhège bēizi hěn dà.",
+     "id": "Gelas ini besar.",
+     "en": "This cup is big."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我有三书。",
+     "right": "我有三本书。",
+     "note": {
+      "id": "Angka tidak boleh langsung diikuti kata benda.",
+      "en": "A number cannot go straight before a noun."
+     }
+    },
+    {
+     "wrong": "二个人",
+     "right": "两个人",
+     "note": {
+      "id": "Sebelum penggolong, \"dua\" adalah 两.",
+      "en": "Before a measure word, \"two\" is 两."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_measure_x1",
+    "g1_measure_x2"
+   ]
+  },
+  {
+   "id": "g1_de",
+   "hskLevel": 1,
+   "title": {
+    "id": "Kepemilikan dengan 的",
+    "en": "Possession with 的"
+   },
+   "pattern": "Pemilik + 的 + Benda",
+   "structure": [
+    {
+     "text": "Pemilik",
+     "role": "subject"
+    },
+    {
+     "text": "的",
+     "role": "key"
+    },
+    {
+     "text": "Benda",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "的 (de) menunjukkan kepemilikan. Pemilik selalu di depan: 我的书 = buku saya. Untuk keluarga dekat, 的 sering dihilangkan: 我妈妈.",
+    "en": "的 (de) shows possession. The owner always comes first: 我的书 = my book. With close family it is often dropped: 我妈妈."
+   },
+   "examples": [
+    {
+     "hanzi": "这是我的书。",
+     "pinyin": "Zhè shì wǒ de shū.",
+     "id": "Ini buku saya.",
+     "en": "This is my book."
+    },
+    {
+     "hanzi": "老师的名字是什么？",
+     "pinyin": "Lǎoshī de míngzi shì shénme?",
+     "id": "Siapa nama gurunya?",
+     "en": "What is the teacher's name?"
+    },
+    {
+     "hanzi": "我妈妈是医生。",
+     "pinyin": "Wǒ māma shì yīshēng.",
+     "id": "Ibu saya dokter.",
+     "en": "My mom is a doctor."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "这是书我的。",
+     "right": "这是我的书。",
+     "note": {
+      "id": "Pemilik dan 的 harus di depan benda, kebalikan dari bahasa Indonesia.",
+      "en": "The owner and 的 go before the noun, the reverse of Indonesian word order."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_de_x1",
+    "g1_de_x2"
+   ]
+  },
+  {
+   "id": "g1_you",
+   "hskLevel": 1,
+   "title": {
+    "id": "有 dan 没有",
+    "en": "有 and 没有"
+   },
+   "pattern": "Subjek + (没)有 + Benda",
+   "structure": [
+    {
+     "text": "Subjek / Tempat",
+     "role": "subject"
+    },
+    {
+     "text": "有",
+     "role": "key"
+    },
+    {
+     "text": "Benda",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "有 (yǒu) berarti \"punya\" atau \"ada\". Bentuk negatifnya selalu 没有 (méiyǒu), tidak pernah 不有.",
+    "en": "有 (yǒu) means \"to have\" or \"there is\". Its negative is always 没有 (méiyǒu), never 不有."
+   },
+   "examples": [
+    {
+     "hanzi": "我有一个朋友。",
+     "pinyin": "Wǒ yǒu yí ge péngyou.",
+     "id": "Saya punya seorang teman.",
+     "en": "I have a friend."
+    },
+    {
+     "hanzi": "桌子上有一本书。",
+     "pinyin": "Zhuōzi shang yǒu yì běn shū.",
+     "id": "Di atas meja ada sebuah buku.",
+     "en": "There's a book on the table."
+    },
+    {
+     "hanzi": "我没有钱。",
+     "pinyin": "Wǒ méiyǒu qián.",
+     "id": "Saya tidak punya uang.",
+     "en": "I don't have any money."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我不有猫。",
+     "right": "我没有猫。",
+     "note": {
+      "id": "有 selalu dinegasikan dengan 没.",
+      "en": "有 is always negated with 没."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_you_x1",
+    "g1_you_x2"
+   ]
+  },
+  {
+   "id": "g1_bu",
+   "hskLevel": 1,
+   "title": {
+    "id": "Menyangkal dengan 不",
+    "en": "Negation with 不"
+   },
+   "pattern": "不 + Kata kerja / Sifat",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "不",
+     "role": "key"
+    },
+    {
+     "text": "Kata kerja",
+     "role": "verb"
+    }
+   ],
+   "explanation": {
+    "id": "不 (bù) diletakkan sebelum kata kerja atau kata sifat untuk menyangkal. Sebelum nada keempat, 不 dibaca bú: 不是 bú shì.",
+    "en": "不 (bù) goes before a verb or adjective to negate it. Before a fourth tone it is read bú: 不是 bú shì."
+   },
+   "examples": [
+    {
+     "hanzi": "我不是医生。",
+     "pinyin": "Wǒ bú shì yīshēng.",
+     "id": "Saya bukan dokter.",
+     "en": "I'm not a doctor."
+    },
+    {
+     "hanzi": "他不喝茶。",
+     "pinyin": "Tā bù hē chá.",
+     "id": "Dia tidak minum teh.",
+     "en": "He doesn't drink tea."
+    },
+    {
+     "hanzi": "今天不冷。",
+     "pinyin": "Jīntiān bù lěng.",
+     "id": "Hari ini tidak dingin.",
+     "en": "It's not cold today."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我喝不茶。",
+     "right": "我不喝茶。",
+     "note": {
+      "id": "不 berada sebelum kata kerja.",
+      "en": "不 comes before the verb."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_bu_x1",
+    "g1_bu_x2"
+   ]
+  },
+  {
+   "id": "g1_modal",
+   "hskLevel": 1,
+   "title": {
+    "id": "想, 会, 能 + kata kerja",
+    "en": "想, 会, 能 + verb"
+   },
+   "pattern": "Subjek + 想/会/能 + Kata kerja",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "想/会/能",
+     "role": "key"
+    },
+    {
+     "text": "Kata kerja",
+     "role": "verb"
+    }
+   ],
+   "explanation": {
+    "id": "想 = ingin, 会 = bisa karena sudah belajar, 能 = bisa karena keadaan memungkinkan. Ketiganya diletakkan sebelum kata kerja utama.",
+    "en": "想 = want to, 会 = can (a learned skill), 能 = can (circumstances allow). All three go before the main verb."
+   },
+   "examples": [
+    {
+     "hanzi": "我想喝茶。",
+     "pinyin": "Wǒ xiǎng hē chá.",
+     "id": "Saya ingin minum teh.",
+     "en": "I want to drink tea."
+    },
+    {
+     "hanzi": "我会说汉语。",
+     "pinyin": "Wǒ huì shuō Hànyǔ.",
+     "id": "Saya bisa berbahasa Mandarin.",
+     "en": "I can speak Chinese."
+    },
+    {
+     "hanzi": "你明天能来吗？",
+     "pinyin": "Nǐ míngtiān néng lái ma?",
+     "id": "Besok kamu bisa datang?",
+     "en": "Can you come tomorrow?"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我喝想茶。",
+     "right": "我想喝茶。",
+     "note": {
+      "id": "Kata kerja bantu berada sebelum kata kerja utama.",
+      "en": "The modal verb comes before the main verb."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_modal_x1",
+    "g1_modal_x2"
+   ]
+  },
+  {
+   "id": "g1_zai",
+   "hskLevel": 1,
+   "title": {
+    "id": "Menyatakan tempat dengan 在",
+    "en": "Location with 在"
+   },
+   "pattern": "Benda + 在 + Tempat",
+   "structure": [
+    {
+     "text": "Benda / Orang",
+     "role": "subject"
+    },
+    {
+     "text": "在",
+     "role": "key"
+    },
+    {
+     "text": "Tempat",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "在 (zài) berarti \"berada di\". Untuk posisi, tambahkan kata arah setelah tempat: 桌子上 (di atas meja), 杯子里 (di dalam gelas).",
+    "en": "在 (zài) means \"to be at\". For a position, add a direction word after the place: 桌子上 (on the table), 杯子里 (in the cup)."
+   },
+   "examples": [
+    {
+     "hanzi": "我在学校。",
+     "pinyin": "Wǒ zài xuéxiào.",
+     "id": "Saya di sekolah.",
+     "en": "I'm at school."
+    },
+    {
+     "hanzi": "猫在椅子上。",
+     "pinyin": "Māo zài yǐzi shang.",
+     "id": "Kucing ada di atas kursi.",
+     "en": "The cat is on the chair."
+    },
+    {
+     "hanzi": "医院在哪儿？",
+     "pinyin": "Yīyuàn zài nǎr?",
+     "id": "Rumah sakit di mana?",
+     "en": "Where is the hospital?"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "书是桌子上。",
+     "right": "书在桌子上。",
+     "note": {
+      "id": "Untuk lokasi, pakai 在, bukan 是.",
+      "en": "Use 在, not 是, for location."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_zai_x1",
+    "g1_zai_x2"
+   ]
+  },
+  {
+   "id": "g1_le",
+   "hskLevel": 1,
+   "title": {
+    "id": "了 untuk tindakan selesai",
+    "en": "了 for completed actions"
+   },
+   "pattern": "Kata kerja + 了",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "Kata kerja",
+     "role": "verb"
+    },
+    {
+     "text": "了",
+     "role": "key"
+    },
+    {
+     "text": "Objek",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "了 (le) setelah kata kerja menunjukkan tindakan sudah terjadi. Di akhir kalimat, 了 juga bisa menandai perubahan keadaan: 下雨了 (sudah mulai hujan).",
+    "en": "了 (le) after a verb shows the action has happened. At the end of a sentence it can also mark a change: 下雨了 (it has started raining)."
+   },
+   "examples": [
+    {
+     "hanzi": "我买了三个苹果。",
+     "pinyin": "Wǒ mǎi le sān ge píngguǒ.",
+     "id": "Saya membeli tiga apel.",
+     "en": "I bought three apples."
+    },
+    {
+     "hanzi": "下雨了。",
+     "pinyin": "Xià yǔ le.",
+     "id": "Hujan turun.",
+     "en": "It's started raining."
+    },
+    {
+     "hanzi": "他回家了。",
+     "pinyin": "Tā huí jiā le.",
+     "id": "Dia sudah pulang.",
+     "en": "He's gone home."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我昨天不买了。",
+     "right": "我昨天没买。",
+     "note": {
+      "id": "Untuk menyangkal masa lampau pakai 没 dan hilangkan 了.",
+      "en": "To negate a past action use 没 and drop 了."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_le_x1",
+    "g1_le_x2"
+   ]
+  },
+  {
+   "id": "g1_hen",
+   "hskLevel": 1,
+   "title": {
+    "id": "Kata sifat dengan 很",
+    "en": "Adjectives with 很"
+   },
+   "pattern": "Subjek + 很 + Kata sifat",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "很",
+     "role": "key"
+    },
+    {
+     "text": "Kata sifat",
+     "role": "adjective"
+    }
+   ],
+   "explanation": {
+    "id": "Kata sifat dalam bahasa Mandarin bisa langsung menjadi predikat, tanpa 是. Biasanya didahului 很 (hěn). Di sini 很 sering tidak berarti \"sangat\", hanya membuat kalimat terdengar wajar.",
+    "en": "In Mandarin an adjective can be the predicate by itself, with no 是. It usually takes 很 (hěn) in front. Here 很 often does not mean \"very\"; it just makes the sentence sound natural."
+   },
+   "examples": [
+    {
+     "hanzi": "我很高兴。",
+     "pinyin": "Wǒ hěn gāoxìng.",
+     "id": "Saya senang.",
+     "en": "I'm happy."
+    },
+    {
+     "hanzi": "今天很冷。",
+     "pinyin": "Jīntiān hěn lěng.",
+     "id": "Hari ini dingin.",
+     "en": "It's cold today."
+    },
+    {
+     "hanzi": "这个苹果很大。",
+     "pinyin": "Zhège píngguǒ hěn dà.",
+     "id": "Apel ini besar.",
+     "en": "This apple is big."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我是很高兴。",
+     "right": "我很高兴。",
+     "note": {
+      "id": "Jangan pakai 是 sebelum kata sifat.",
+      "en": "Do not use 是 before an adjective."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_hen_x1",
+    "g1_hen_x2"
+   ]
+  },
+  {
+   "id": "g1_tai",
+   "hskLevel": 1,
+   "title": {
+    "id": "Seruan dengan 太…了",
+    "en": "Exclamations with 太…了"
+   },
+   "pattern": "太 + Kata sifat + 了",
+   "structure": [
+    {
+     "text": "太",
+     "role": "key"
+    },
+    {
+     "text": "Kata sifat",
+     "role": "adjective"
+    },
+    {
+     "text": "了",
+     "role": "key"
+    }
+   ],
+   "explanation": {
+    "id": "太…了 menyatakan \"terlalu\" atau seruan \"sekali!\". 了 di akhir hampir selalu ada.",
+    "en": "太…了 means \"too...\" or an exclamation like \"so...!\". The 了 at the end is almost always there."
+   },
+   "examples": [
+    {
+     "hanzi": "太好了！",
+     "pinyin": "Tài hǎo le!",
+     "id": "Bagus sekali!",
+     "en": "Great!"
+    },
+    {
+     "hanzi": "今天太热了！",
+     "pinyin": "Jīntiān tài rè le!",
+     "id": "Hari ini panas sekali!",
+     "en": "It's so hot today!"
+    },
+    {
+     "hanzi": "这个杯子太漂亮了！",
+     "pinyin": "Zhège bēizi tài piàoliang le!",
+     "id": "Gelas ini cantik sekali!",
+     "en": "This cup is so pretty!"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "太好！",
+     "right": "太好了！",
+     "note": {
+      "id": "Dalam seruan, 太 berpasangan dengan 了.",
+      "en": "In exclamations 太 pairs with 了."
+     }
+    }
+   ],
+   "exercises": [
+    "g1_tai_x1",
+    "g1_tai_x2"
+   ]
+  },
+  {
+   "id": "g2_bi",
+   "hskLevel": 2,
+   "title": {
+    "id": "Membandingkan dengan 比",
+    "en": "Comparisons with 比"
+   },
+   "pattern": "A + 比 + B + Kata sifat",
+   "structure": [
+    {
+     "text": "A",
+     "role": "subject"
+    },
+    {
+     "text": "比",
+     "role": "key"
+    },
+    {
+     "text": "B",
+     "role": "object"
+    },
+    {
+     "text": "Kata sifat",
+     "role": "adjective"
+    }
+   ],
+   "explanation": {
+    "id": "A 比 B + kata sifat berarti \"A lebih ... daripada B\". Dalam kalimat 比, jangan pakai 很 atau 非常.",
+    "en": "A 比 B + adjective means \"A is more ... than B\". Do not use 很 or 非常 in a 比 sentence."
+   },
+   "examples": [
+    {
+     "hanzi": "哥哥比我高。",
+     "pinyin": "Gēge bǐ wǒ gāo.",
+     "id": "Kakak lebih tinggi dari saya.",
+     "en": "My older brother is taller than me."
+    },
+    {
+     "hanzi": "今天比昨天冷。",
+     "pinyin": "Jīntiān bǐ zuótiān lěng.",
+     "id": "Hari ini lebih dingin dari kemarin.",
+     "en": "Today is colder than yesterday."
+    },
+    {
+     "hanzi": "这个手机比那个便宜。",
+     "pinyin": "Zhège shǒujī bǐ nàge piányi.",
+     "id": "Ponsel ini lebih murah dari yang itu.",
+     "en": "This phone is cheaper than that one."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "哥哥比我很高。",
+     "right": "哥哥比我高。",
+     "note": {
+      "id": "Kalimat 比 tidak memakai 很.",
+      "en": "A 比 sentence does not use 很."
+     }
+    }
+   ],
+   "exercises": [
+    "g2_bi_x1",
+    "g2_bi_x2"
+   ]
+  },
+  {
+   "id": "g2_guo",
+   "hskLevel": 2,
+   "title": {
+    "id": "Pengalaman dengan 过",
+    "en": "Experiences with 过"
+   },
+   "pattern": "Kata kerja + 过",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "Kata kerja",
+     "role": "verb"
+    },
+    {
+     "text": "过",
+     "role": "key"
+    },
+    {
+     "text": "Objek",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "过 (guo) setelah kata kerja berarti \"pernah\". Negatifnya 没 + kata kerja + 过.",
+    "en": "过 (guo) after a verb means \"have ever done\". The negative is 没 + verb + 过."
+   },
+   "examples": [
+    {
+     "hanzi": "我去过北京。",
+     "pinyin": "Wǒ qù guo Běijīng.",
+     "id": "Saya pernah ke Beijing.",
+     "en": "I've been to Beijing."
+    },
+    {
+     "hanzi": "你吃过饺子吗？",
+     "pinyin": "Nǐ chī guo jiǎozi ma?",
+     "id": "Kamu pernah makan pangsit?",
+     "en": "Have you ever eaten dumplings?"
+    },
+    {
+     "hanzi": "我没去过中国。",
+     "pinyin": "Wǒ méi qù guo Zhōngguó.",
+     "id": "Saya belum pernah ke Tiongkok.",
+     "en": "I've never been to China."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我不去过中国。",
+     "right": "我没去过中国。",
+     "note": {
+      "id": "Pengalaman dinegasikan dengan 没, bukan 不.",
+      "en": "Experiences are negated with 没, not 不."
+     }
+    }
+   ],
+   "exercises": [
+    "g2_guo_x1",
+    "g2_guo_x2"
+   ]
+  },
+  {
+   "id": "g2_de",
+   "hskLevel": 2,
+   "title": {
+    "id": "Pelengkap derajat dengan 得",
+    "en": "Degree complements with 得"
+   },
+   "pattern": "Kata kerja + 得 + (很) + Kata sifat",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "Kata kerja",
+     "role": "verb"
+    },
+    {
+     "text": "得",
+     "role": "key"
+    },
+    {
+     "text": "Kata sifat",
+     "role": "adjective"
+    }
+   ],
+   "explanation": {
+    "id": "得 (de) setelah kata kerja menilai bagaimana sebuah tindakan dilakukan: 他跑得很快 (dia berlari dengan cepat). Jika ada objek, ulangi kata kerjanya: 她唱歌唱得很好.",
+    "en": "得 (de) after a verb describes how well an action is done: 他跑得很快 (he runs fast). If there is an object, repeat the verb: 她唱歌唱得很好."
+   },
+   "examples": [
+    {
+     "hanzi": "他跑得很快。",
+     "pinyin": "Tā pǎo de hěn kuài.",
+     "id": "Dia berlari dengan cepat.",
+     "en": "He runs fast."
+    },
+    {
+     "hanzi": "她唱歌唱得很好。",
+     "pinyin": "Tā chàng gē chàng de hěn hǎo.",
+     "id": "Dia bernyanyi dengan bagus.",
+     "en": "She sings well."
+    },
+    {
+     "hanzi": "你说得很好！",
+     "pinyin": "Nǐ shuō de hěn hǎo!",
+     "id": "Kamu berbicara dengan bagus!",
+     "en": "You speak very well!"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "他跑很快得。",
+     "right": "他跑得很快。",
+     "note": {
+      "id": "得 langsung mengikuti kata kerja.",
+      "en": "得 comes right after the verb."
+     }
+    }
+   ],
+   "exercises": [
+    "g2_de_x1",
+    "g2_de_x2"
+   ]
+  },
+  {
+   "id": "g2_zhengzai",
+   "hskLevel": 2,
+   "title": {
+    "id": "Sedang berlangsung dengan 正在",
+    "en": "Ongoing actions with 正在"
+   },
+   "pattern": "Subjek + 正在 + Kata kerja (+ 呢)",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "正在",
+     "role": "key"
+    },
+    {
+     "text": "Kata kerja",
+     "role": "verb"
+    },
+    {
+     "text": "呢",
+     "role": "extra"
+    }
+   ],
+   "explanation": {
+    "id": "正在 (zhèngzài) menunjukkan tindakan yang sedang berlangsung. 呢 di akhir kalimat sering ditambahkan.",
+    "en": "正在 (zhèngzài) shows an action in progress. 呢 is often added at the end."
+   },
+   "examples": [
+    {
+     "hanzi": "我正在看书。",
+     "pinyin": "Wǒ zhèngzài kàn shū.",
+     "id": "Saya sedang membaca buku.",
+     "en": "I'm reading a book."
+    },
+    {
+     "hanzi": "妈妈正在做饭呢。",
+     "pinyin": "Māma zhèngzài zuò fàn ne.",
+     "id": "Ibu sedang memasak.",
+     "en": "Mom is cooking."
+    },
+    {
+     "hanzi": "他们正在打篮球。",
+     "pinyin": "Tāmen zhèngzài dǎ lánqiú.",
+     "id": "Mereka sedang bermain basket.",
+     "en": "They're playing basketball."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我正在知道。",
+     "right": "我知道。",
+     "note": {
+      "id": "Kata kerja keadaan seperti 知道 tidak memakai 正在.",
+      "en": "State verbs like 知道 do not take 正在."
+     }
+    }
+   ],
+   "exercises": [
+    "g2_zhengzai_x1",
+    "g2_zhengzai_x2"
+   ]
+  },
+  {
+   "id": "g2_yinwei",
+   "hskLevel": 2,
+   "title": {
+    "id": "Sebab-akibat: 因为…所以…",
+    "en": "Cause and effect: 因为…所以…"
+   },
+   "pattern": "因为 + Sebab，所以 + Akibat",
+   "structure": [
+    {
+     "text": "因为",
+     "role": "key"
+    },
+    {
+     "text": "Sebab",
+     "role": "subject"
+    },
+    {
+     "text": "所以",
+     "role": "key"
+    },
+    {
+     "text": "Akibat",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "因为 (karena) memperkenalkan sebab, 所以 (jadi) memperkenalkan akibat. Keduanya sering dipakai bersama.",
+    "en": "因为 (because) introduces the cause and 所以 (so) introduces the result. They are often used together."
+   },
+   "examples": [
+    {
+     "hanzi": "因为生病了，所以他没来。",
+     "pinyin": "Yīnwèi shēngbìng le, suǒyǐ tā méi lái.",
+     "id": "Karena sakit, dia tidak datang.",
+     "en": "He didn't come because he was sick."
+    },
+    {
+     "hanzi": "因为天气很热，所以我们去游泳。",
+     "pinyin": "Yīnwèi tiānqì hěn rè, suǒyǐ wǒmen qù yóuyǒng.",
+     "id": "Karena cuaca panas, kami pergi berenang.",
+     "en": "It's hot, so we're going swimming."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "因为下雨了，但是我没去。",
+     "right": "因为下雨了，所以我没去。",
+     "note": {
+      "id": "Pasangan 因为 adalah 所以, bukan 但是.",
+      "en": "因为 pairs with 所以, not 但是."
+     }
+    }
+   ],
+   "exercises": [
+    "g2_yinwei_x1",
+    "g2_yinwei_x2"
+   ]
+  },
+  {
+   "id": "g3_ba",
+   "hskLevel": 3,
+   "title": {
+    "id": "Kalimat 把",
+    "en": "The 把 construction"
+   },
+   "pattern": "Subjek + 把 + Objek + Kata kerja + Pelengkap",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "把",
+     "role": "key"
+    },
+    {
+     "text": "Objek",
+     "role": "object"
+    },
+    {
+     "text": "Kata kerja + hasil",
+     "role": "verb"
+    }
+   ],
+   "explanation": {
+    "id": "把 (bǎ) memindahkan objek ke depan kata kerja untuk menekankan apa yang terjadi pada objek itu. Kata kerjanya harus diikuti hasil atau keterangan, tidak boleh berdiri sendiri.",
+    "en": "把 (bǎ) moves the object before the verb to stress what happens to it. The verb must be followed by a result or extra detail; it cannot stand alone."
+   },
+   "examples": [
+    {
+     "hanzi": "请把门打开。",
+     "pinyin": "Qǐng bǎ mén dǎkāi.",
+     "id": "Tolong buka pintunya.",
+     "en": "Please open the door."
+    },
+    {
+     "hanzi": "他把杯子放在桌子上了。",
+     "pinyin": "Tā bǎ bēizi fàng zài zhuōzi shang le.",
+     "id": "Dia menaruh gelas di atas meja.",
+     "en": "He put the cup on the table."
+    },
+    {
+     "hanzi": "我把苹果吃了。",
+     "pinyin": "Wǒ bǎ píngguǒ chī le.",
+     "id": "Saya makan apelnya.",
+     "en": "I ate the apple."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我把书看。",
+     "right": "我把书看完了。",
+     "note": {
+      "id": "Kata kerja dalam kalimat 把 perlu hasil, misalnya 完了.",
+      "en": "The verb in a 把 sentence needs a result such as 完了."
+     }
+    }
+   ],
+   "exercises": [
+    "g3_ba_x1",
+    "g3_ba_x2"
+   ]
+  },
+  {
+   "id": "g3_bei",
+   "hskLevel": 3,
+   "title": {
+    "id": "Kalimat pasif dengan 被",
+    "en": "Passive sentences with 被"
+   },
+   "pattern": "Objek + 被 + Pelaku + Kata kerja + Pelengkap",
+   "structure": [
+    {
+     "text": "Penerima",
+     "role": "object"
+    },
+    {
+     "text": "被",
+     "role": "key"
+    },
+    {
+     "text": "Pelaku",
+     "role": "subject"
+    },
+    {
+     "text": "Kata kerja + hasil",
+     "role": "verb"
+    }
+   ],
+   "explanation": {
+    "id": "被 (bèi) membuat kalimat pasif, sering untuk kejadian yang tidak diinginkan. Seperti 把, kata kerjanya perlu hasil.",
+    "en": "被 (bèi) forms a passive sentence, often for something unwelcome. As with 把, the verb needs a result."
+   },
+   "examples": [
+    {
+     "hanzi": "我的蛋糕被弟弟吃了。",
+     "pinyin": "Wǒ de dàngāo bèi dìdi chī le.",
+     "id": "Kue saya dimakan adik.",
+     "en": "My cake was eaten by my little brother."
+    },
+    {
+     "hanzi": "我的鱼被猫吃了。",
+     "pinyin": "Wǒ de yú bèi māo chī le.",
+     "id": "Ikan saya dimakan kucing.",
+     "en": "My fish was eaten by the cat."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "蛋糕被吃。",
+     "right": "蛋糕被吃了。",
+     "note": {
+      "id": "Kalimat 被 perlu hasil atau 了.",
+      "en": "A 被 sentence needs a result or 了."
+     }
+    }
+   ],
+   "exercises": [
+    "g3_bei_x1",
+    "g3_bei_x2"
+   ]
+  },
+  {
+   "id": "g3_yuelaiyue",
+   "hskLevel": 3,
+   "title": {
+    "id": "Makin lama makin: 越来越",
+    "en": "More and more: 越来越"
+   },
+   "pattern": "Subjek + 越来越 + Kata sifat (+ 了)",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "越来越",
+     "role": "key"
+    },
+    {
+     "text": "Kata sifat",
+     "role": "adjective"
+    }
+   ],
+   "explanation": {
+    "id": "越来越 (yuè lái yuè) berarti \"makin lama makin\". Jangan tambahkan 很 setelahnya.",
+    "en": "越来越 (yuè lái yuè) means \"more and more\". Do not add 很 after it."
+   },
+   "examples": [
+    {
+     "hanzi": "天气越来越冷了。",
+     "pinyin": "Tiānqì yuè lái yuè lěng le.",
+     "id": "Cuaca makin lama makin dingin.",
+     "en": "It's getting colder and colder."
+    },
+    {
+     "hanzi": "你的汉语越来越好了。",
+     "pinyin": "Nǐ de Hànyǔ yuè lái yuè hǎo le.",
+     "id": "Bahasa Mandarinmu makin bagus.",
+     "en": "Your Chinese is getting better and better."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "越来越很好",
+     "right": "越来越好",
+     "note": {
+      "id": "越来越 sudah menyatakan derajat, jadi tanpa 很.",
+      "en": "越来越 already expresses degree, so no 很."
+     }
+    }
+   ],
+   "exercises": [
+    "g3_yuelaiyue_x1",
+    "g3_yuelaiyue_x2"
+   ]
+  },
+  {
+   "id": "g3_yibian",
+   "hskLevel": 3,
+   "title": {
+    "id": "Dua kegiatan sekaligus: 一边…一边…",
+    "en": "Two things at once: 一边…一边…"
+   },
+   "pattern": "Subjek + 一边 + V1 + 一边 + V2",
+   "structure": [
+    {
+     "text": "Subjek",
+     "role": "subject"
+    },
+    {
+     "text": "一边",
+     "role": "key"
+    },
+    {
+     "text": "Kegiatan 1",
+     "role": "verb"
+    },
+    {
+     "text": "一边",
+     "role": "key"
+    },
+    {
+     "text": "Kegiatan 2",
+     "role": "verb"
+    }
+   ],
+   "explanation": {
+    "id": "一边…一边… berarti melakukan dua kegiatan pada saat yang sama. Kedua 一边 harus ada.",
+    "en": "一边…一边… means doing two things at the same time. Both 一边 are required."
+   },
+   "examples": [
+    {
+     "hanzi": "我一边吃饭一边看电视。",
+     "pinyin": "Wǒ yìbiān chī fàn yìbiān kàn diànshì.",
+     "id": "Saya makan sambil menonton TV.",
+     "en": "I watch TV while I eat."
+    },
+    {
+     "hanzi": "她一边唱歌一边跳舞。",
+     "pinyin": "Tā yìbiān chàng gē yìbiān tiàowǔ.",
+     "id": "Dia bernyanyi sambil menari.",
+     "en": "She sings while dancing."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "我一边吃饭，看电视。",
+     "right": "我一边吃饭一边看电视。",
+     "note": {
+      "id": "Setiap kegiatan perlu 一边 di depannya.",
+      "en": "Each activity needs its own 一边."
+     }
+    }
+   ],
+   "exercises": [
+    "g3_yibian_x1",
+    "g3_yibian_x2"
+   ]
+  },
+  {
+   "id": "g4_budan",
+   "hskLevel": 4,
+   "title": {
+    "id": "Bukan hanya… tetapi juga: 不但…而且…",
+    "en": "Not only... but also: 不但…而且…"
+   },
+   "pattern": "不但 + A，而且 + B",
+   "structure": [
+    {
+     "text": "不但",
+     "role": "key"
+    },
+    {
+     "text": "Hal pertama",
+     "role": "subject"
+    },
+    {
+     "text": "而且",
+     "role": "key"
+    },
+    {
+     "text": "Hal tambahan",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "不但…而且… menambahkan informasi yang lebih kuat: \"bukan hanya A, tetapi juga B\".",
+    "en": "不但…而且… adds a stronger point: \"not only A, but also B\"."
+   },
+   "examples": [
+    {
+     "hanzi": "她不但会唱歌，而且会跳舞。",
+     "pinyin": "Tā búdàn huì chàng gē, érqiě huì tiàowǔ.",
+     "id": "Dia bukan hanya bisa bernyanyi, tetapi juga bisa menari.",
+     "en": "She can not only sing but also dance."
+    },
+    {
+     "hanzi": "这个菜不但便宜，而且很好吃。",
+     "pinyin": "Zhège cài búdàn piányi, érqiě hěn hǎochī.",
+     "id": "Masakan ini bukan hanya murah, tetapi juga enak.",
+     "en": "This dish is not only cheap but also delicious."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "不但便宜，但是好吃。",
+     "right": "不但便宜，而且好吃。",
+     "note": {
+      "id": "Pasangan 不但 adalah 而且, bukan 但是.",
+      "en": "不但 pairs with 而且, not 但是."
+     }
+    }
+   ],
+   "exercises": [
+    "g4_budan_x1"
+   ]
+  },
+  {
+   "id": "g4_lian",
+   "hskLevel": 4,
+   "title": {
+    "id": "Bahkan: 连…都/也…",
+    "en": "Even: 连…都/也…"
+   },
+   "pattern": "连 + X + 都/也 + Kata kerja",
+   "structure": [
+    {
+     "text": "连",
+     "role": "key"
+    },
+    {
+     "text": "Hal yang mengejutkan",
+     "role": "object"
+    },
+    {
+     "text": "都/也",
+     "role": "key"
+    },
+    {
+     "text": "Kata kerja",
+     "role": "verb"
+    }
+   ],
+   "explanation": {
+    "id": "连…都/也… berarti \"bahkan\". X adalah hal yang paling tidak terduga.",
+    "en": "连…都/也… means \"even\". X is the most surprising case."
+   },
+   "examples": [
+    {
+     "hanzi": "他连一个汉字都不认识。",
+     "pinyin": "Tā lián yí ge Hànzì dōu bú rènshi.",
+     "id": "Dia bahkan tidak kenal satu Hanzi pun.",
+     "en": "He doesn't even know a single character."
+    },
+    {
+     "hanzi": "这个问题连孩子都知道。",
+     "pinyin": "Zhège wèntí lián háizi dōu zhīdào.",
+     "id": "Bahkan anak-anak tahu jawaban ini.",
+     "en": "Even children know this."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "连我不知道。",
+     "right": "连我都不知道。",
+     "note": {
+      "id": "连 harus dipasangkan dengan 都 atau 也.",
+      "en": "连 must pair with 都 or 也."
+     }
+    }
+   ],
+   "exercises": [
+    "g4_lian_x1"
+   ]
+  },
+  {
+   "id": "g4_jishi",
+   "hskLevel": 4,
+   "title": {
+    "id": "Meskipun: 即使…也…",
+    "en": "Even if: 即使…也…"
+   },
+   "pattern": "即使 + Syarat，也 + Hasil",
+   "structure": [
+    {
+     "text": "即使",
+     "role": "key"
+    },
+    {
+     "text": "Syarat",
+     "role": "subject"
+    },
+    {
+     "text": "也",
+     "role": "key"
+    },
+    {
+     "text": "Hasil",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "即使…也… berarti \"meskipun ..., tetap ...\". Hasilnya tidak berubah walaupun syaratnya terjadi.",
+    "en": "即使…也… means \"even if ..., still ...\". The result holds even if the condition happens."
+   },
+   "examples": [
+    {
+     "hanzi": "即使下雨，我们也去公园。",
+     "pinyin": "Jíshǐ xià yǔ, wǒmen yě qù gōngyuán.",
+     "id": "Meskipun hujan, kami tetap pergi ke taman.",
+     "en": "Even if it rains, we'll go to the park."
+    },
+    {
+     "hanzi": "即使很累，他也每天跑步。",
+     "pinyin": "Jíshǐ hěn lèi, tā yě měitiān pǎobù.",
+     "id": "Meskipun lelah, dia tetap lari setiap hari.",
+     "en": "Even when tired, he runs every day."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "即使下雨，我们去。",
+     "right": "即使下雨，我们也去。",
+     "note": {
+      "id": "Bagian kedua perlu 也.",
+      "en": "The second part needs 也."
+     }
+    }
+   ],
+   "exercises": [
+    "g4_jishi_x1"
+   ]
+  },
+  {
+   "id": "g5_nandao",
+   "hskLevel": 5,
+   "title": {
+    "id": "Pertanyaan retoris dengan 难道",
+    "en": "Rhetorical questions with 难道"
+   },
+   "pattern": "难道 + Kalimat + 吗？",
+   "structure": [
+    {
+     "text": "难道",
+     "role": "key"
+    },
+    {
+     "text": "Pernyataan",
+     "role": "subject"
+    },
+    {
+     "text": "吗？",
+     "role": "key"
+    }
+   ],
+   "explanation": {
+    "id": "难道 (nándào) membuat pertanyaan retoris yang menunjukkan heran: \"masa ...?\". Jawabannya sudah jelas.",
+    "en": "难道 (nándào) makes a rhetorical question showing surprise: \"surely you don't mean ...?\". The answer is already obvious."
+   },
+   "examples": [
+    {
+     "hanzi": "难道你不知道吗？",
+     "pinyin": "Nándào nǐ bù zhīdào ma?",
+     "id": "Masa kamu tidak tahu?",
+     "en": "Don't tell me you don't know?"
+    },
+    {
+     "hanzi": "这么简单，难道你不会吗？",
+     "pinyin": "Zhème jiǎndān, nándào nǐ bú huì ma?",
+     "id": "Semudah ini, masa kamu tidak bisa?",
+     "en": "It's this easy, surely you can do it?"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "难道你知道。",
+     "right": "难道你不知道吗？",
+     "note": {
+      "id": "难道 dipakai dalam bentuk pertanyaan.",
+      "en": "难道 is used in question form."
+     }
+    }
+   ],
+   "exercises": [
+    "g5_nandao_x1"
+   ]
+  },
+  {
+   "id": "g5_jiran",
+   "hskLevel": 5,
+   "title": {
+    "id": "Karena sudah begitu: 既然…就…",
+    "en": "Since that is so: 既然…就…"
+   },
+   "pattern": "既然 + Fakta，就 + Kesimpulan",
+   "structure": [
+    {
+     "text": "既然",
+     "role": "key"
+    },
+    {
+     "text": "Fakta",
+     "role": "subject"
+    },
+    {
+     "text": "就",
+     "role": "key"
+    },
+    {
+     "text": "Kesimpulan",
+     "role": "object"
+    }
+   ],
+   "explanation": {
+    "id": "既然…就… berarti \"karena (sudah jelas) ..., maka ...\". Bagian pertama adalah fakta yang diketahui kedua pihak.",
+    "en": "既然…就… means \"since ..., then ...\". The first part is a fact both speakers already accept."
+   },
+   "examples": [
+    {
+     "hanzi": "既然下雨了，我们就别出去了。",
+     "pinyin": "Jìrán xià yǔ le, wǒmen jiù bié chūqu le.",
+     "id": "Karena sudah hujan, kita tidak usah keluar.",
+     "en": "Since it's raining, let's not go out."
+    },
+    {
+     "hanzi": "既然你喜欢，就买吧。",
+     "pinyin": "Jìrán nǐ xǐhuan, jiù mǎi ba.",
+     "id": "Karena kamu suka, beli saja.",
+     "en": "Since you like it, buy it."
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "既然你累了，所以休息吧。",
+     "right": "既然你累了，就休息吧。",
+     "note": {
+      "id": "既然 berpasangan dengan 就.",
+      "en": "既然 pairs with 就."
+     }
+    }
+   ],
+   "exercises": [
+    "g5_jiran_x1"
+   ]
+  }
+ ]
+}

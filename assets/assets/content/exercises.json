@@ -1,0 +1,898 @@
+{
+ "meta": {
+  "status": "sample: level placement follows common HSK 2.0 course order; verify against the official grammar outline before release"
+ },
+ "items": [
+  {
+   "id": "g1_shi_x1",
+   "type": "fill",
+   "grammarId": "g1_shi",
+   "sentence": "我___学生。",
+   "answer": "是",
+   "options": [
+    "是",
+    "很",
+    "在"
+   ],
+   "translation": {
+    "id": "Saya pelajar.",
+    "en": "I'm a student."
+   },
+   "explanation": {
+    "id": "Menghubungkan \"saya\" dan \"pelajar\" (dua kata benda) memakai 是.",
+    "en": "\"I\" and \"student\" are both nouns, so they are linked with 是."
+   }
+  },
+  {
+   "id": "g1_shi_x2",
+   "type": "arrange",
+   "grammarId": "g1_shi",
+   "tokens": [
+    "他",
+    "是",
+    "医生"
+   ],
+   "answer": "他是医生。",
+   "translation": {
+    "id": "Dia seorang dokter.",
+    "en": "He's a doctor."
+   }
+  },
+  {
+   "id": "g1_ma_x1",
+   "type": "fill",
+   "grammarId": "g1_ma",
+   "sentence": "你喜欢猫___？",
+   "answer": "吗",
+   "options": [
+    "吗",
+    "呢",
+    "的"
+   ],
+   "translation": {
+    "id": "Kamu suka kucing?",
+    "en": "Do you like cats?"
+   },
+   "explanation": {
+    "id": "Ini pertanyaan ya/tidak tanpa kata tanya, jadi ditutup dengan 吗.",
+    "en": "A yes/no question with no question word ends in 吗."
+   }
+  },
+  {
+   "id": "g1_ma_x2",
+   "type": "arrange",
+   "grammarId": "g1_ma",
+   "tokens": [
+    "你",
+    "是",
+    "老师",
+    "吗"
+   ],
+   "answer": "你是老师吗？",
+   "translation": {
+    "id": "Apakah kamu guru?",
+    "en": "Are you a teacher?"
+   }
+  },
+  {
+   "id": "g1_ne_x1",
+   "type": "fill",
+   "grammarId": "g1_ne",
+   "sentence": "我喜欢茶，你___？",
+   "answer": "呢",
+   "options": [
+    "呢",
+    "吗",
+    "的"
+   ],
+   "translation": {
+    "id": "Saya suka teh, kamu?",
+    "en": "I like tea, and you?"
+   },
+   "explanation": {
+    "id": "Bertanya balik \"kalau kamu?\" memakai 呢.",
+    "en": "Asking \"and you?\" uses 呢."
+   }
+  },
+  {
+   "id": "g1_ne_x2",
+   "type": "arrange",
+   "grammarId": "g1_ne",
+   "tokens": [
+    "我的",
+    "杯子",
+    "呢"
+   ],
+   "answer": "我的杯子呢？",
+   "translation": {
+    "id": "Gelas saya mana?",
+    "en": "Where's my cup?"
+   }
+  },
+  {
+   "id": "g1_qw_x1",
+   "type": "fill",
+   "grammarId": "g1_qw",
+   "sentence": "他是___？",
+   "answer": "谁",
+   "options": [
+    "谁",
+    "吗",
+    "呢"
+   ],
+   "translation": {
+    "id": "Dia siapa?",
+    "en": "Who is he?"
+   },
+   "explanation": {
+    "id": "Menanyakan orang memakai 谁 di posisi jawaban.",
+    "en": "Asking about a person uses 谁 where the answer would be."
+   }
+  },
+  {
+   "id": "g1_qw_x2",
+   "type": "arrange",
+   "grammarId": "g1_qw",
+   "tokens": [
+    "你",
+    "去",
+    "哪儿"
+   ],
+   "answer": "你去哪儿？",
+   "translation": {
+    "id": "Kamu mau ke mana?",
+    "en": "Where are you going?"
+   }
+  },
+  {
+   "id": "g1_measure_x1",
+   "type": "fill",
+   "grammarId": "g1_measure",
+   "sentence": "我买了三___书。",
+   "answer": "本",
+   "options": [
+    "本",
+    "个",
+    "块"
+   ],
+   "translation": {
+    "id": "Saya membeli tiga buku.",
+    "en": "I bought three books."
+   },
+   "explanation": {
+    "id": "Buku memakai penggolong 本.",
+    "en": "Books take the measure word 本."
+   }
+  },
+  {
+   "id": "g1_measure_x2",
+   "type": "arrange",
+   "grammarId": "g1_measure",
+   "tokens": [
+    "我",
+    "有",
+    "五",
+    "个",
+    "杯子"
+   ],
+   "answer": "我有五个杯子。",
+   "translation": {
+    "id": "Saya punya lima gelas.",
+    "en": "I have five cups."
+   }
+  },
+  {
+   "id": "g1_de_x1",
+   "type": "fill",
+   "grammarId": "g1_de",
+   "sentence": "这是我___猫。",
+   "answer": "的",
+   "options": [
+    "的",
+    "是",
+    "了"
+   ],
+   "translation": {
+    "id": "Ini kucing saya.",
+    "en": "This is my cat."
+   },
+   "explanation": {
+    "id": "Kepemilikan \"kucing saya\" memakai 的.",
+    "en": "\"My cat\" is formed with 的."
+   }
+  },
+  {
+   "id": "g1_de_x2",
+   "type": "arrange",
+   "grammarId": "g1_de",
+   "tokens": [
+    "这",
+    "是",
+    "老师",
+    "的",
+    "书"
+   ],
+   "answer": "这是老师的书。",
+   "translation": {
+    "id": "Ini buku guru.",
+    "en": "This is the teacher's book."
+   }
+  },
+  {
+   "id": "g1_you_x1",
+   "type": "fill",
+   "grammarId": "g1_you",
+   "sentence": "我___有钱。",
+   "answer": "没",
+   "options": [
+    "没",
+    "不",
+    "很"
+   ],
+   "translation": {
+    "id": "Saya tidak punya uang.",
+    "en": "I don't have any money."
+   },
+   "explanation": {
+    "id": "Negatif dari 有 adalah 没有.",
+    "en": "The negative of 有 is 没有."
+   }
+  },
+  {
+   "id": "g1_you_x2",
+   "type": "arrange",
+   "grammarId": "g1_you",
+   "tokens": [
+    "桌子",
+    "上",
+    "有",
+    "一本",
+    "书"
+   ],
+   "answer": "桌子上有一本书。",
+   "translation": {
+    "id": "Di atas meja ada sebuah buku.",
+    "en": "There's a book on the table."
+   }
+  },
+  {
+   "id": "g1_bu_x1",
+   "type": "fill",
+   "grammarId": "g1_bu",
+   "sentence": "他___喜欢狗。",
+   "answer": "不",
+   "options": [
+    "不",
+    "没",
+    "吗"
+   ],
+   "translation": {
+    "id": "Dia tidak suka anjing.",
+    "en": "He doesn't like dogs."
+   },
+   "explanation": {
+    "id": "喜欢 dinegasikan dengan 不.",
+    "en": "喜欢 is negated with 不."
+   }
+  },
+  {
+   "id": "g1_bu_x2",
+   "type": "arrange",
+   "grammarId": "g1_bu",
+   "tokens": [
+    "我",
+    "不",
+    "喝",
+    "咖啡"
+   ],
+   "answer": "我不喝咖啡。",
+   "translation": {
+    "id": "Saya tidak minum kopi.",
+    "en": "I don't drink coffee."
+   }
+  },
+  {
+   "id": "g1_modal_x1",
+   "type": "fill",
+   "grammarId": "g1_modal",
+   "sentence": "我___说汉语。",
+   "answer": "会",
+   "options": [
+    "会",
+    "是",
+    "很"
+   ],
+   "translation": {
+    "id": "Saya bisa berbahasa Mandarin.",
+    "en": "I can speak Chinese."
+   },
+   "explanation": {
+    "id": "Kemampuan hasil belajar, seperti bahasa, memakai 会.",
+    "en": "A learned skill such as a language uses 会."
+   }
+  },
+  {
+   "id": "g1_modal_x2",
+   "type": "arrange",
+   "grammarId": "g1_modal",
+   "tokens": [
+    "你",
+    "能",
+    "来",
+    "吗"
+   ],
+   "answer": "你能来吗？",
+   "translation": {
+    "id": "Kamu bisa datang?",
+    "en": "Can you come?"
+   }
+  },
+  {
+   "id": "g1_zai_x1",
+   "type": "fill",
+   "grammarId": "g1_zai",
+   "sentence": "猫___椅子上。",
+   "answer": "在",
+   "options": [
+    "在",
+    "是",
+    "有"
+   ],
+   "translation": {
+    "id": "Kucing ada di atas kursi.",
+    "en": "The cat is on the chair."
+   },
+   "explanation": {
+    "id": "Menyatakan lokasi benda memakai 在.",
+    "en": "Saying where something is uses 在."
+   }
+  },
+  {
+   "id": "g1_zai_x2",
+   "type": "arrange",
+   "grammarId": "g1_zai",
+   "tokens": [
+    "书",
+    "在",
+    "桌子",
+    "上"
+   ],
+   "answer": "书在桌子上。",
+   "translation": {
+    "id": "Buku ada di atas meja.",
+    "en": "The book is on the table."
+   }
+  },
+  {
+   "id": "g1_le_x1",
+   "type": "fill",
+   "grammarId": "g1_le",
+   "sentence": "我买___一本书。",
+   "answer": "了",
+   "options": [
+    "了",
+    "的",
+    "吗"
+   ],
+   "translation": {
+    "id": "Saya membeli sebuah buku.",
+    "en": "I bought a book."
+   },
+   "explanation": {
+    "id": "Pembelian sudah terjadi, jadi pakai 了 setelah kata kerja.",
+    "en": "The buying already happened, so 了 follows the verb."
+   }
+  },
+  {
+   "id": "g1_le_x2",
+   "type": "arrange",
+   "grammarId": "g1_le",
+   "tokens": [
+    "昨天",
+    "下雨",
+    "了"
+   ],
+   "answer": "昨天下雨了。",
+   "translation": {
+    "id": "Kemarin hujan.",
+    "en": "It rained yesterday."
+   }
+  },
+  {
+   "id": "g1_hen_x1",
+   "type": "fill",
+   "grammarId": "g1_hen",
+   "sentence": "今天___热。",
+   "answer": "很",
+   "options": [
+    "很",
+    "是",
+    "有"
+   ],
+   "translation": {
+    "id": "Hari ini panas.",
+    "en": "It's hot today."
+   },
+   "explanation": {
+    "id": "Kata sifat sebagai predikat biasanya didahului 很.",
+    "en": "An adjective predicate usually takes 很."
+   }
+  },
+  {
+   "id": "g1_hen_x2",
+   "type": "arrange",
+   "grammarId": "g1_hen",
+   "tokens": [
+    "我的",
+    "狗",
+    "很",
+    "小"
+   ],
+   "answer": "我的狗很小。",
+   "translation": {
+    "id": "Anjing saya kecil.",
+    "en": "My dog is small."
+   }
+  },
+  {
+   "id": "g1_tai_x1",
+   "type": "fill",
+   "grammarId": "g1_tai",
+   "sentence": "今天太冷___！",
+   "answer": "了",
+   "options": [
+    "了",
+    "吗",
+    "的"
+   ],
+   "translation": {
+    "id": "Hari ini dingin sekali!",
+    "en": "It's so cold today!"
+   },
+   "explanation": {
+    "id": "太 dalam seruan ditutup dengan 了.",
+    "en": "An exclamation with 太 closes with 了."
+   }
+  },
+  {
+   "id": "g1_tai_x2",
+   "type": "arrange",
+   "grammarId": "g1_tai",
+   "tokens": [
+    "太",
+    "漂亮",
+    "了"
+   ],
+   "answer": "太漂亮了！",
+   "translation": {
+    "id": "Cantik sekali!",
+    "en": "So pretty!"
+   }
+  },
+  {
+   "id": "g2_bi_x1",
+   "type": "fill",
+   "grammarId": "g2_bi",
+   "sentence": "今天___昨天热。",
+   "answer": "比",
+   "options": [
+    "比",
+    "很",
+    "和"
+   ],
+   "translation": {
+    "id": "Hari ini lebih panas dari kemarin.",
+    "en": "Today is hotter than yesterday."
+   },
+   "explanation": {
+    "id": "Perbandingan \"lebih ... daripada\" memakai 比.",
+    "en": "\"More ... than\" uses 比."
+   }
+  },
+  {
+   "id": "g2_bi_x2",
+   "type": "arrange",
+   "grammarId": "g2_bi",
+   "tokens": [
+    "他",
+    "比",
+    "我",
+    "高"
+   ],
+   "answer": "他比我高。",
+   "translation": {
+    "id": "Dia lebih tinggi dari saya.",
+    "en": "He's taller than me."
+   }
+  },
+  {
+   "id": "g2_guo_x1",
+   "type": "fill",
+   "grammarId": "g2_guo",
+   "sentence": "我去___中国。",
+   "answer": "过",
+   "options": [
+    "过",
+    "了",
+    "的"
+   ],
+   "translation": {
+    "id": "Saya pernah ke Tiongkok.",
+    "en": "I've been to China."
+   },
+   "explanation": {
+    "id": "\"Pernah\" memakai 过 setelah kata kerja.",
+    "en": "\"Have been\" uses 过 after the verb."
+   }
+  },
+  {
+   "id": "g2_guo_x2",
+   "type": "arrange",
+   "grammarId": "g2_guo",
+   "tokens": [
+    "你",
+    "吃过",
+    "饺子",
+    "吗"
+   ],
+   "answer": "你吃过饺子吗？",
+   "translation": {
+    "id": "Kamu pernah makan pangsit?",
+    "en": "Have you ever eaten dumplings?"
+   }
+  },
+  {
+   "id": "g2_de_x1",
+   "type": "fill",
+   "grammarId": "g2_de",
+   "sentence": "他跑___很快。",
+   "answer": "得",
+   "options": [
+    "得",
+    "的",
+    "了"
+   ],
+   "translation": {
+    "id": "Dia berlari dengan cepat.",
+    "en": "He runs fast."
+   },
+   "explanation": {
+    "id": "Menilai cara bertindak memakai 得 setelah kata kerja.",
+    "en": "Describing how an action is done uses 得 after the verb."
+   }
+  },
+  {
+   "id": "g2_de_x2",
+   "type": "arrange",
+   "grammarId": "g2_de",
+   "tokens": [
+    "她",
+    "跳舞",
+    "跳得",
+    "很好"
+   ],
+   "answer": "她跳舞跳得很好。",
+   "translation": {
+    "id": "Dia menari dengan bagus.",
+    "en": "She dances well."
+   }
+  },
+  {
+   "id": "g2_zhengzai_x1",
+   "type": "fill",
+   "grammarId": "g2_zhengzai",
+   "sentence": "爸爸___看电视。",
+   "answer": "正在",
+   "options": [
+    "正在",
+    "已经",
+    "了"
+   ],
+   "translation": {
+    "id": "Ayah sedang menonton TV.",
+    "en": "Dad is watching TV."
+   },
+   "explanation": {
+    "id": "Tindakan yang sedang terjadi memakai 正在.",
+    "en": "An action happening now uses 正在."
+   }
+  },
+  {
+   "id": "g2_zhengzai_x2",
+   "type": "arrange",
+   "grammarId": "g2_zhengzai",
+   "tokens": [
+    "我们",
+    "正在",
+    "吃饭"
+   ],
+   "answer": "我们正在吃饭。",
+   "translation": {
+    "id": "Kami sedang makan.",
+    "en": "We're eating."
+   }
+  },
+  {
+   "id": "g2_yinwei_x1",
+   "type": "fill",
+   "grammarId": "g2_yinwei",
+   "sentence": "因为天气很冷，___我不想出去。",
+   "answer": "所以",
+   "options": [
+    "所以",
+    "但是",
+    "因为"
+   ],
+   "translation": {
+    "id": "Karena cuacanya dingin, saya tidak mau keluar.",
+    "en": "It's cold, so I don't want to go out."
+   },
+   "explanation": {
+    "id": "Akibat diperkenalkan dengan 所以.",
+    "en": "The result is introduced with 所以."
+   }
+  },
+  {
+   "id": "g2_yinwei_x2",
+   "type": "arrange",
+   "grammarId": "g2_yinwei",
+   "tokens": [
+    "因为",
+    "下雨了",
+    "所以",
+    "我",
+    "没去"
+   ],
+   "answer": "因为下雨了，所以我没去。",
+   "translation": {
+    "id": "Karena hujan, saya tidak pergi.",
+    "en": "It rained, so I didn't go."
+   }
+  },
+  {
+   "id": "g3_ba_x1",
+   "type": "fill",
+   "grammarId": "g3_ba",
+   "sentence": "请___窗户打开。",
+   "answer": "把",
+   "options": [
+    "把",
+    "被",
+    "比"
+   ],
+   "translation": {
+    "id": "Tolong buka jendelanya.",
+    "en": "Please open the window."
+   },
+   "explanation": {
+    "id": "Objek dipindah ke depan kata kerja dengan 把.",
+    "en": "The object moves before the verb with 把."
+   }
+  },
+  {
+   "id": "g3_ba_x2",
+   "type": "arrange",
+   "grammarId": "g3_ba",
+   "tokens": [
+    "我",
+    "把",
+    "苹果",
+    "吃了"
+   ],
+   "answer": "我把苹果吃了。",
+   "translation": {
+    "id": "Saya makan apelnya.",
+    "en": "I ate the apple."
+   }
+  },
+  {
+   "id": "g3_bei_x1",
+   "type": "fill",
+   "grammarId": "g3_bei",
+   "sentence": "我的鱼___猫吃了。",
+   "answer": "被",
+   "options": [
+    "被",
+    "把",
+    "比"
+   ],
+   "translation": {
+    "id": "Ikan saya dimakan kucing.",
+    "en": "My fish was eaten by the cat."
+   },
+   "explanation": {
+    "id": "Kalimat pasif memakai 被 sebelum pelaku.",
+    "en": "A passive sentence puts 被 before the doer."
+   }
+  },
+  {
+   "id": "g3_bei_x2",
+   "type": "arrange",
+   "grammarId": "g3_bei",
+   "tokens": [
+    "蛋糕",
+    "被",
+    "弟弟",
+    "吃了"
+   ],
+   "answer": "蛋糕被弟弟吃了。",
+   "translation": {
+    "id": "Kuenya dimakan adik.",
+    "en": "The cake was eaten by my little brother."
+   }
+  },
+  {
+   "id": "g3_yuelaiyue_x1",
+   "type": "fill",
+   "grammarId": "g3_yuelaiyue",
+   "sentence": "天气___热了。",
+   "answer": "越来越",
+   "options": [
+    "越来越",
+    "很",
+    "比"
+   ],
+   "translation": {
+    "id": "Cuaca makin lama makin panas.",
+    "en": "It's getting hotter and hotter."
+   },
+   "explanation": {
+    "id": "\"Makin lama makin\" adalah 越来越.",
+    "en": "\"More and more\" is 越来越."
+   }
+  },
+  {
+   "id": "g3_yuelaiyue_x2",
+   "type": "arrange",
+   "grammarId": "g3_yuelaiyue",
+   "tokens": [
+    "他的",
+    "汉语",
+    "越来越",
+    "好了"
+   ],
+   "answer": "他的汉语越来越好了。",
+   "translation": {
+    "id": "Bahasa Mandarinnya makin bagus.",
+    "en": "His Chinese is getting better and better."
+   }
+  },
+  {
+   "id": "g3_yibian_x1",
+   "type": "fill",
+   "grammarId": "g3_yibian",
+   "sentence": "他一边听歌，___写字。",
+   "answer": "一边",
+   "options": [
+    "一边",
+    "也",
+    "还"
+   ],
+   "translation": {
+    "id": "Dia menulis sambil mendengarkan lagu.",
+    "en": "He writes while listening to music."
+   },
+   "explanation": {
+    "id": "Kegiatan kedua juga diawali 一边.",
+    "en": "The second activity also starts with 一边."
+   }
+  },
+  {
+   "id": "g3_yibian_x2",
+   "type": "arrange",
+   "grammarId": "g3_yibian",
+   "tokens": [
+    "我",
+    "一边",
+    "吃饭",
+    "一边",
+    "看书"
+   ],
+   "answer": "我一边吃饭一边看书。",
+   "translation": {
+    "id": "Saya makan sambil membaca.",
+    "en": "I read while I eat."
+   }
+  },
+  {
+   "id": "g4_budan_x1",
+   "type": "fill",
+   "grammarId": "g4_budan",
+   "sentence": "他不但会说汉语，___会写汉字。",
+   "answer": "而且",
+   "options": [
+    "而且",
+    "但是",
+    "所以"
+   ],
+   "translation": {
+    "id": "Dia bukan hanya bisa berbahasa Mandarin, tetapi juga bisa menulis Hanzi.",
+    "en": "He can not only speak Chinese but also write characters."
+   },
+   "explanation": {
+    "id": "Pasangan 不但 adalah 而且.",
+    "en": "不但 pairs with 而且."
+   }
+  },
+  {
+   "id": "g4_lian_x1",
+   "type": "fill",
+   "grammarId": "g4_lian",
+   "sentence": "他忙得连饭___没吃。",
+   "answer": "都",
+   "options": [
+    "都",
+    "很",
+    "就"
+   ],
+   "translation": {
+    "id": "Dia begitu sibuk sampai belum makan.",
+    "en": "He was so busy he didn't even eat."
+   },
+   "explanation": {
+    "id": "连 dipasangkan dengan 都.",
+    "en": "连 pairs with 都."
+   }
+  },
+  {
+   "id": "g4_jishi_x1",
+   "type": "fill",
+   "grammarId": "g4_jishi",
+   "sentence": "即使很忙，他___每天学习汉语。",
+   "answer": "也",
+   "options": [
+    "也",
+    "都",
+    "就"
+   ],
+   "translation": {
+    "id": "Meskipun sibuk, dia tetap belajar Mandarin setiap hari.",
+    "en": "Even when busy, he studies Chinese every day."
+   },
+   "explanation": {
+    "id": "即使 berpasangan dengan 也.",
+    "en": "即使 pairs with 也."
+   }
+  },
+  {
+   "id": "g5_nandao_x1",
+   "type": "fill",
+   "grammarId": "g5_nandao",
+   "sentence": "___你忘了吗？",
+   "answer": "难道",
+   "options": [
+    "难道",
+    "因为",
+    "虽然"
+   ],
+   "translation": {
+    "id": "Masa kamu lupa?",
+    "en": "Don't tell me you forgot?"
+   },
+   "explanation": {
+    "id": "Pertanyaan retoris memakai 难道.",
+    "en": "A rhetorical question uses 难道."
+   }
+  },
+  {
+   "id": "g5_jiran_x1",
+   "type": "fill",
+   "grammarId": "g5_jiran",
+   "sentence": "既然你累了，___早点儿休息吧。",
+   "answer": "就",
+   "options": [
+    "就",
+    "所以",
+    "也"
+   ],
+   "translation": {
+    "id": "Karena kamu lelah, istirahatlah lebih awal.",
+    "en": "Since you're tired, get some rest early."
+   },
+   "explanation": {
+    "id": "既然 berpasangan dengan 就.",
+    "en": "既然 pairs with 就."
+   }
+  }
+ ]
+}

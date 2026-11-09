@@ -1,0 +1,1239 @@
+{
+ "meta": {
+  "status": "sample dialogues written for Hanzee; speakers are the mascots Bao (宝宝) and Kopi (可比). Need editorial review."
+ },
+ "items": [
+  {
+   "id": "r1_1",
+   "hskLevel": 1,
+   "title": {
+    "id": "Kenalan pertama",
+    "en": "First meeting"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "你好！我叫宝宝。你叫什么名字？",
+     "pinyin": "Nǐ hǎo! Wǒ jiào Bǎobao. Nǐ jiào shénme míngzi?",
+     "id": "Halo! Namaku Bao. Siapa namamu?",
+     "en": "Hi! I'm Bao. What's your name?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "你好！我叫可比。认识你很高兴。",
+     "pinyin": "Nǐ hǎo! Wǒ jiào Kěbǐ. Rènshi nǐ hěn gāoxìng.",
+     "id": "Halo! Namaku Kopi. Senang berkenalan denganmu.",
+     "en": "Hi! I'm Kopi. Nice to meet you."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "你是学生吗？",
+     "pinyin": "Nǐ shì xuésheng ma?",
+     "id": "Apakah kamu pelajar?",
+     "en": "Are you a student?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "是，我是学生。你呢？",
+     "pinyin": "Shì, wǒ shì xuésheng. Nǐ ne?",
+     "id": "Ya, aku pelajar. Kamu?",
+     "en": "Yes, I'm a student. And you?"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "我也是学生！",
+     "pinyin": "Wǒ yě shì xuésheng!",
+     "id": "Aku juga pelajar!",
+     "en": "I'm a student too!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Siapa nama si beruang?",
+      "en": "What is the bear's name?"
+     },
+     "options": [
+      {
+       "id": "可比 (Kopi)",
+       "en": "可比 (Kopi)"
+      },
+      {
+       "id": "宝宝 (Bao)",
+       "en": "宝宝 (Bao)"
+      },
+      {
+       "id": "老师 (guru)",
+       "en": "老师 (teacher)"
+      }
+     ],
+     "answer": 0
+    },
+    {
+     "question": {
+      "id": "Apakah Kopi seorang pelajar?",
+      "en": "Is Kopi a student?"
+     },
+     "options": [
+      {
+       "id": "Ya",
+       "en": "Yes"
+      },
+      {
+       "id": "Bukan, dia guru",
+       "en": "No, he's a teacher"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r1_2",
+   "hskLevel": 1,
+   "title": {
+    "id": "Jam berapa?",
+    "en": "What time is it?"
+   },
+   "lines": [
+    {
+     "speaker": "kopi",
+     "hanzi": "宝宝，现在几点？",
+     "pinyin": "Bǎobao, xiànzài jǐ diǎn?",
+     "id": "Bao, sekarang jam berapa?",
+     "en": "Bao, what time is it?"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "现在三点。",
+     "pinyin": "Xiànzài sān diǎn.",
+     "id": "Sekarang pukul tiga.",
+     "en": "It's three o'clock."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "今天星期几？",
+     "pinyin": "Jīntiān xīngqī jǐ?",
+     "id": "Hari ini hari apa?",
+     "en": "What day is it today?"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "今天星期五。明天星期六！",
+     "pinyin": "Jīntiān xīngqīwǔ. Míngtiān xīngqīliù!",
+     "id": "Hari ini hari Jumat. Besok hari Sabtu!",
+     "en": "Today is Friday. Tomorrow is Saturday!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Sekarang pukul berapa?",
+      "en": "What time is it?"
+     },
+     "options": [
+      {
+       "id": "Pukul tiga",
+       "en": "Three o'clock"
+      },
+      {
+       "id": "Pukul lima",
+       "en": "Five o'clock"
+      },
+      {
+       "id": "Pukul enam",
+       "en": "Six o'clock"
+      }
+     ],
+     "answer": 0
+    },
+    {
+     "question": {
+      "id": "Besok hari apa?",
+      "en": "What day is tomorrow?"
+     },
+     "options": [
+      {
+       "id": "Sabtu",
+       "en": "Saturday"
+      },
+      {
+       "id": "Jumat",
+       "en": "Friday"
+      },
+      {
+       "id": "Senin",
+       "en": "Monday"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r1_3",
+   "hskLevel": 1,
+   "title": {
+    "id": "Keluarga Kopi",
+    "en": "Kopi's family"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "可比，你家有几个人？",
+     "pinyin": "Kěbǐ, nǐ jiā yǒu jǐ ge rén?",
+     "id": "Kopi, keluargamu ada berapa orang?",
+     "en": "Kopi, how many people are in your family?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "我家有四个人：爸爸、妈妈、我和女儿。",
+     "pinyin": "Wǒ jiā yǒu sì ge rén: bàba, māma, wǒ hé nǚ'ér.",
+     "id": "Keluargaku ada empat orang: ayah, ibu, aku, dan anak perempuan.",
+     "en": "There are four of us: dad, mom, me and my daughter."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "你家有猫吗？",
+     "pinyin": "Nǐ jiā yǒu māo ma?",
+     "id": "Di rumahmu ada kucing?",
+     "en": "Do you have a cat at home?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "没有猫，我们有一个小狗。",
+     "pinyin": "Méiyǒu māo, wǒmen yǒu yí ge xiǎo gǒu.",
+     "id": "Tidak ada kucing, kami punya seekor anjing kecil.",
+     "en": "No cat, we have a little dog."
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Keluarga Kopi ada berapa orang?",
+      "en": "How many people are in Kopi's family?"
+     },
+     "options": [
+      {
+       "id": "Empat",
+       "en": "Four"
+      },
+      {
+       "id": "Tiga",
+       "en": "Three"
+      },
+      {
+       "id": "Lima",
+       "en": "Five"
+      }
+     ],
+     "answer": 0
+    },
+    {
+     "question": {
+      "id": "Hewan apa yang ada di rumah Kopi?",
+      "en": "What pet does Kopi's family have?"
+     },
+     "options": [
+      {
+       "id": "Anjing kecil",
+       "en": "A little dog"
+      },
+      {
+       "id": "Kucing",
+       "en": "A cat"
+      },
+      {
+       "id": "Tidak ada",
+       "en": "None"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r1_4",
+   "hskLevel": 1,
+   "title": {
+    "id": "Di toko buah",
+    "en": "At the fruit shop"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "你好！苹果多少钱？",
+     "pinyin": "Nǐ hǎo! Píngguǒ duōshao qián?",
+     "id": "Halo! Apel berapa harganya?",
+     "en": "Hello! How much are the apples?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "一个苹果三块钱。",
+     "pinyin": "Yí ge píngguǒ sān kuài qián.",
+     "id": "Satu apel tiga yuan.",
+     "en": "Three yuan each."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "我想买五个。",
+     "pinyin": "Wǒ xiǎng mǎi wǔ ge.",
+     "id": "Saya mau beli lima.",
+     "en": "I'd like five."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "好，十五块。谢谢！",
+     "pinyin": "Hǎo, shíwǔ kuài. Xièxie!",
+     "id": "Baik, lima belas yuan. Terima kasih!",
+     "en": "Okay, fifteen yuan. Thank you!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Berapa harga satu apel?",
+      "en": "How much is one apple?"
+     },
+     "options": [
+      {
+       "id": "Tiga yuan",
+       "en": "Three yuan"
+      },
+      {
+       "id": "Lima yuan",
+       "en": "Five yuan"
+      },
+      {
+       "id": "Lima belas yuan",
+       "en": "Fifteen yuan"
+      }
+     ],
+     "answer": 0
+    },
+    {
+     "question": {
+      "id": "Bao membeli berapa apel?",
+      "en": "How many apples does Bao buy?"
+     },
+     "options": [
+      {
+       "id": "Lima",
+       "en": "Five"
+      },
+      {
+       "id": "Tiga",
+       "en": "Three"
+      },
+      {
+       "id": "Satu",
+       "en": "One"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r1_5",
+   "hskLevel": 1,
+   "title": {
+    "id": "Di mana bukuku?",
+    "en": "Where's my book?"
+   },
+   "lines": [
+    {
+     "speaker": "kopi",
+     "hanzi": "我的书呢？",
+     "pinyin": "Wǒ de shū ne?",
+     "id": "Bukuku mana?",
+     "en": "Where's my book?"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "你的书在桌子上。",
+     "pinyin": "Nǐ de shū zài zhuōzi shang.",
+     "id": "Bukumu ada di atas meja.",
+     "en": "Your book is on the table."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "桌子上没有书。",
+     "pinyin": "Zhuōzi shang méiyǒu shū.",
+     "id": "Di atas meja tidak ada buku.",
+     "en": "There's no book on the table."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "你看，在椅子下面！",
+     "pinyin": "Nǐ kàn, zài yǐzi xiàmiàn!",
+     "id": "Lihat, ada di bawah kursi!",
+     "en": "Look, it's under the chair!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Di mana buku Kopi?",
+      "en": "Where is Kopi's book?"
+     },
+     "options": [
+      {
+       "id": "Di bawah kursi",
+       "en": "Under the chair"
+      },
+      {
+       "id": "Di atas meja",
+       "en": "On the table"
+      },
+      {
+       "id": "Di sekolah",
+       "en": "At school"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r1_6",
+   "hskLevel": 1,
+   "title": {
+    "id": "Cuaca hari ini",
+    "en": "Today's weather"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "今天天气怎么样？",
+     "pinyin": "Jīntiān tiānqì zěnmeyàng?",
+     "id": "Bagaimana cuaca hari ini?",
+     "en": "How's the weather today?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "今天很冷，下雨了。",
+     "pinyin": "Jīntiān hěn lěng, xià yǔ le.",
+     "id": "Hari ini dingin, dan hujan.",
+     "en": "It's cold today, and it's raining."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "我们在家看电影吧。",
+     "pinyin": "Wǒmen zài jiā kàn diànyǐng ba.",
+     "id": "Kita nonton film di rumah saja.",
+     "en": "Let's watch a movie at home."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "太好了！",
+     "pinyin": "Tài hǎo le!",
+     "id": "Asyik!",
+     "en": "Great idea!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Bagaimana cuaca hari ini?",
+      "en": "What's the weather like today?"
+     },
+     "options": [
+      {
+       "id": "Dingin dan hujan",
+       "en": "Cold and rainy"
+      },
+      {
+       "id": "Panas",
+       "en": "Hot"
+      },
+      {
+       "id": "Cerah",
+       "en": "Sunny"
+      }
+     ],
+     "answer": 0
+    },
+    {
+     "question": {
+      "id": "Apa yang akan mereka lakukan?",
+      "en": "What will they do?"
+     },
+     "options": [
+      {
+       "id": "Menonton film di rumah",
+       "en": "Watch a movie at home"
+      },
+      {
+       "id": "Pergi ke sekolah",
+       "en": "Go to school"
+      },
+      {
+       "id": "Berenang",
+       "en": "Go swimming"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r2_1",
+   "hskLevel": 2,
+   "title": {
+    "id": "Kakak Kopi sakit",
+    "en": "Kopi's sister is sick"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "你姐姐今天怎么没来？",
+     "pinyin": "Nǐ jiějie jīntiān zěnme méi lái?",
+     "id": "Kenapa kakakmu tidak datang hari ini?",
+     "en": "Why didn't your sister come today?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "她生病了，在家休息。",
+     "pinyin": "Tā shēngbìng le, zài jiā xiūxi.",
+     "id": "Dia sakit, sedang istirahat di rumah.",
+     "en": "She's sick and resting at home."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "她吃药了吗？",
+     "pinyin": "Tā chī yào le ma?",
+     "id": "Dia sudah minum obat?",
+     "en": "Has she taken medicine?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "吃了。她比昨天好多了。",
+     "pinyin": "Chī le. Tā bǐ zuótiān hǎo duō le.",
+     "id": "Sudah. Dia jauh lebih baik dari kemarin.",
+     "en": "Yes. She's much better than yesterday."
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Mengapa kakak Kopi tidak datang?",
+      "en": "Why didn't Kopi's sister come?"
+     },
+     "options": [
+      {
+       "id": "Dia sakit",
+       "en": "She is sick"
+      },
+      {
+       "id": "Dia bekerja",
+       "en": "She is working"
+      },
+      {
+       "id": "Dia berwisata",
+       "en": "She is travelling"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r2_2",
+   "hskLevel": 2,
+   "title": {
+    "id": "Membeli ponsel",
+    "en": "Buying a phone"
+   },
+   "lines": [
+    {
+     "speaker": "kopi",
+     "hanzi": "这个红色的手机多少钱？",
+     "pinyin": "Zhège hóngsè de shǒujī duōshao qián?",
+     "id": "Ponsel merah ini berapa harganya?",
+     "en": "How much is this red phone?"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "两千块。白色的便宜一点儿。",
+     "pinyin": "Liǎngqiān kuài. Báisè de piányi yìdiǎnr.",
+     "id": "Dua ribu yuan. Yang putih sedikit lebih murah.",
+     "en": "Two thousand yuan. The white one is a bit cheaper."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "太贵了！我买过一个黑色的，很好用。",
+     "pinyin": "Tài guì le! Wǒ mǎi guo yí ge hēisè de, hěn hǎoyòng.",
+     "id": "Mahal sekali! Aku pernah beli yang hitam, enak dipakai.",
+     "en": "Too expensive! I've bought a black one before, it worked well."
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Berapa harga ponsel merah?",
+      "en": "How much is the red phone?"
+     },
+     "options": [
+      {
+       "id": "Dua ribu yuan",
+       "en": "Two thousand yuan"
+      },
+      {
+       "id": "Seribu yuan",
+       "en": "One thousand yuan"
+      },
+      {
+       "id": "Dua ratus yuan",
+       "en": "Two hundred yuan"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r2_3",
+   "hskLevel": 2,
+   "title": {
+    "id": "Olahraga pagi",
+    "en": "Morning exercise"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "你每天几点起床？",
+     "pinyin": "Nǐ měitiān jǐ diǎn qǐchuáng?",
+     "id": "Kamu bangun jam berapa setiap hari?",
+     "en": "What time do you get up every day?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "六点。我早上跑步，晚上游泳。",
+     "pinyin": "Liù diǎn. Wǒ zǎoshang pǎobù, wǎnshang yóuyǒng.",
+     "id": "Jam enam. Pagi aku lari, malam aku berenang.",
+     "en": "Six. I run in the morning and swim in the evening."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "你游得很快吗？",
+     "pinyin": "Nǐ yóu de hěn kuài ma?",
+     "id": "Kamu berenang dengan cepat?",
+     "en": "Do you swim fast?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "还可以。我正在学打篮球呢！",
+     "pinyin": "Hái kěyǐ. Wǒ zhèngzài xué dǎ lánqiú ne!",
+     "id": "Lumayan. Aku juga sedang belajar main basket!",
+     "en": "Not bad. I'm learning basketball right now!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Kopi bangun jam berapa?",
+      "en": "What time does Kopi get up?"
+     },
+     "options": [
+      {
+       "id": "Pukul enam",
+       "en": "Six"
+      },
+      {
+       "id": "Pukul tujuh",
+       "en": "Seven"
+      },
+      {
+       "id": "Pukul delapan",
+       "en": "Eight"
+      }
+     ],
+     "answer": 0
+    },
+    {
+     "question": {
+      "id": "Apa yang Kopi lakukan pada malam hari?",
+      "en": "What does Kopi do in the evening?"
+     },
+     "options": [
+      {
+       "id": "Berenang",
+       "en": "Swims"
+      },
+      {
+       "id": "Berlari",
+       "en": "Runs"
+      },
+      {
+       "id": "Menari",
+       "en": "Dances"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r2_4",
+   "hskLevel": 2,
+   "title": {
+    "id": "Sarapan dan perjalanan",
+    "en": "Breakfast and the trip"
+   },
+   "lines": [
+    {
+     "speaker": "kopi",
+     "hanzi": "早上你吃什么？",
+     "pinyin": "Zǎoshang nǐ chī shénme?",
+     "id": "Pagi kamu makan apa?",
+     "en": "What do you eat in the morning?"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "两个鸡蛋，喝一杯牛奶。",
+     "pinyin": "Liǎng ge jīdàn, hē yì bēi niúnǎi.",
+     "id": "Dua telur, minum segelas susu.",
+     "en": "Two eggs and a glass of milk."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "我们怎么去机场？",
+     "pinyin": "Wǒmen zěnme qù jīchǎng?",
+     "id": "Kita ke bandara naik apa?",
+     "en": "How are we getting to the airport?"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "因为下雪了，所以坐公共汽车吧。",
+     "pinyin": "Yīnwèi xià xuě le, suǒyǐ zuò gōnggòng qìchē ba.",
+     "id": "Karena turun salju, kita naik bus saja.",
+     "en": "It's snowing, so let's take the bus."
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Mengapa mereka naik bus?",
+      "en": "Why do they take the bus?"
+     },
+     "options": [
+      {
+       "id": "Karena turun salju",
+       "en": "Because it's snowing"
+      },
+      {
+       "id": "Karena murah",
+       "en": "Because it's cheap"
+      },
+      {
+       "id": "Karena dekat",
+       "en": "Because it's close"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r3_1",
+   "hskLevel": 3,
+   "title": {
+    "id": "Di dapur",
+    "en": "In the kitchen"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "冰箱里有什么？",
+     "pinyin": "Bīngxiāng li yǒu shénme?",
+     "id": "Di dalam kulkas ada apa?",
+     "en": "What's in the fridge?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "有面包、香蕉和一个蛋糕。",
+     "pinyin": "Yǒu miànbāo, xiāngjiāo hé yí ge dàngāo.",
+     "id": "Ada roti, pisang, dan sebuah kue.",
+     "en": "There's bread, bananas and a cake."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "我把蛋糕放在盘子里吧。",
+     "pinyin": "Wǒ bǎ dàngāo fàng zài pánzi li ba.",
+     "id": "Aku taruh kuenya di piring ya.",
+     "en": "I'll put the cake on a plate."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "好！再拿两双筷子。",
+     "pinyin": "Hǎo! Zài ná liǎng shuāng kuàizi.",
+     "id": "Oke! Ambil juga dua pasang sumpit.",
+     "en": "Okay! Grab two pairs of chopsticks too."
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Apa saja yang ada di kulkas?",
+      "en": "What's in the fridge?"
+     },
+     "options": [
+      {
+       "id": "Roti, pisang, dan kue",
+       "en": "Bread, bananas and a cake"
+      },
+      {
+       "id": "Susu dan telur",
+       "en": "Milk and eggs"
+      },
+      {
+       "id": "Mi dan anggur",
+       "en": "Noodles and grapes"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r3_2",
+   "hskLevel": 3,
+   "title": {
+    "id": "Baju baru",
+    "en": "New clothes"
+   },
+   "lines": [
+    {
+     "speaker": "kopi",
+     "hanzi": "你的新裙子真漂亮！",
+     "pinyin": "Nǐ de xīn qúnzi zhēn piàoliang!",
+     "id": "Rok barumu cantik sekali!",
+     "en": "Your new skirt is really pretty!"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "谢谢！我喜欢蓝色的。你的帽子呢？",
+     "pinyin": "Xièxie! Wǒ xǐhuan lánsè de. Nǐ de màozi ne?",
+     "id": "Terima kasih! Aku suka yang biru. Topimu mana?",
+     "en": "Thanks! I like blue ones. Where is your hat?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "在这儿，是黄色的。天气越来越热了。",
+     "pinyin": "Zài zhèr, shì huángsè de. Tiānqì yuè lái yuè rè le.",
+     "id": "Ini, warnanya kuning. Cuaca makin lama makin panas.",
+     "en": "Here, it's yellow. It's getting hotter and hotter."
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Warna apa topi Kopi?",
+      "en": "What color is Kopi's hat?"
+     },
+     "options": [
+      {
+       "id": "Kuning",
+       "en": "Yellow"
+      },
+      {
+       "id": "Biru",
+       "en": "Blue"
+      },
+      {
+       "id": "Hijau",
+       "en": "Green"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r3_3",
+   "hskLevel": 3,
+   "title": {
+    "id": "Jalan-jalan ke taman",
+    "en": "A walk in the park"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "公园里的花开了！",
+     "pinyin": "Gōngyuán li de huā kāi le!",
+     "id": "Bunga di taman sudah mekar!",
+     "en": "The flowers in the park are blooming!"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "我们一边走一边看吧。",
+     "pinyin": "Wǒmen yìbiān zǒu yìbiān kàn ba.",
+     "id": "Kita jalan sambil melihat-lihat yuk.",
+     "en": "Let's look around while we walk."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "河边有很多树，太阳也很好。",
+     "pinyin": "Hé biān yǒu hěn duō shù, tàiyang yě hěn hǎo.",
+     "id": "Di tepi sungai banyak pohon, mataharinya juga cerah.",
+     "en": "There are lots of trees by the river, and the sun is lovely."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "下午我们去图书馆看书。",
+     "pinyin": "Xiàwǔ wǒmen qù túshūguǎn kàn shū.",
+     "id": "Sore nanti kita ke perpustakaan membaca.",
+     "en": "This afternoon we'll go read at the library."
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Ke mana mereka pergi sore hari?",
+      "en": "Where will they go in the afternoon?"
+     },
+     "options": [
+      {
+       "id": "Perpustakaan",
+       "en": "The library"
+      },
+      {
+       "id": "Sungai",
+       "en": "The river"
+      },
+      {
+       "id": "Bandara",
+       "en": "The airport"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r3_4",
+   "hskLevel": 3,
+   "title": {
+    "id": "Kebun binatang",
+    "en": "At the zoo"
+   },
+   "lines": [
+    {
+     "speaker": "kopi",
+     "hanzi": "你看，熊猫在吃竹子！",
+     "pinyin": "Nǐ kàn, xióngmāo zài chī zhúzi!",
+     "id": "Lihat, panda sedang makan bambu!",
+     "en": "Look, the panda is eating bamboo!"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "它的耳朵和眼睛都是黑的。",
+     "pinyin": "Tā de ěrduo hé yǎnjing dōu shì hēi de.",
+     "id": "Telinga dan matanya hitam.",
+     "en": "Its ears and eyes are black."
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "哎呀，我的面包被鸟吃了！",
+     "pinyin": "Āiyā, wǒ de miànbāo bèi niǎo chī le!",
+     "id": "Aduh, rotiku dimakan burung!",
+     "en": "Oh no, a bird ate my bread!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Apa yang terjadi pada roti Kopi?",
+      "en": "What happened to Kopi's bread?"
+     },
+     "options": [
+      {
+       "id": "Dimakan burung",
+       "en": "A bird ate it"
+      },
+      {
+       "id": "Dimakan panda",
+       "en": "The panda ate it"
+      },
+      {
+       "id": "Jatuh ke sungai",
+       "en": "It fell in the river"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r4_1",
+   "hskLevel": 4,
+   "title": {
+    "id": "Cita-cita",
+    "en": "Dream jobs"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "你以后想做什么工作？",
+     "pinyin": "Nǐ yǐhòu xiǎng zuò shénme gōngzuò?",
+     "id": "Nanti kamu ingin bekerja sebagai apa?",
+     "en": "What job do you want in the future?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "我想当护士。我不但喜欢帮助别人，而且对医学很感兴趣。",
+     "pinyin": "Wǒ xiǎng dāng hùshi. Wǒ búdàn xǐhuan bāngzhù biérén, érqiě duì yīxué hěn gǎn xìngqù.",
+     "id": "Aku ingin jadi perawat. Aku bukan hanya suka membantu orang, tetapi juga tertarik pada ilmu kedokteran.",
+     "en": "I want to be a nurse. I not only like helping people, I'm also interested in medicine."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "我想当演员，也想当警察！",
+     "pinyin": "Wǒ xiǎng dāng yǎnyuán, yě xiǎng dāng jǐngchá!",
+     "id": "Aku ingin jadi aktor, juga ingin jadi polisi!",
+     "en": "I want to be an actor, and a police officer too!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Kopi ingin menjadi apa?",
+      "en": "What does Kopi want to be?"
+     },
+     "options": [
+      {
+       "id": "Perawat",
+       "en": "A nurse"
+      },
+      {
+       "id": "Polisi",
+       "en": "A police officer"
+      },
+      {
+       "id": "Pengacara",
+       "en": "A lawyer"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r4_2",
+   "hskLevel": 4,
+   "title": {
+    "id": "Kunci yang hilang",
+    "en": "The lost key"
+   },
+   "lines": [
+    {
+     "speaker": "kopi",
+     "hanzi": "我的钥匙呢？我连沙发下面都找了。",
+     "pinyin": "Wǒ de yàoshi ne? Wǒ lián shāfā xiàmiàn dōu zhǎo le.",
+     "id": "Kunciku mana? Aku bahkan sudah mencari di bawah sofa.",
+     "en": "Where are my keys? I've even looked under the sofa."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "窗户旁边的桌子上看了吗？",
+     "pinyin": "Chuānghu pángbiān de zhuōzi shang kàn le ma?",
+     "id": "Sudah lihat di meja dekat jendela?",
+     "en": "Did you check the table by the window?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "找到了！谢谢你！",
+     "pinyin": "Zhǎodào le! Xièxie nǐ!",
+     "id": "Ketemu! Terima kasih!",
+     "en": "Found them! Thank you!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Di mana kuncinya ditemukan?",
+      "en": "Where were the keys?"
+     },
+     "options": [
+      {
+       "id": "Di meja dekat jendela",
+       "en": "On the table by the window"
+      },
+      {
+       "id": "Di bawah sofa",
+       "en": "Under the sofa"
+      },
+      {
+       "id": "Di dalam tas",
+       "en": "In the bag"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r4_3",
+   "hskLevel": 4,
+   "title": {
+    "id": "Belajar dengan tekun",
+    "en": "Studying hard"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "即使很忙，你也每天写汉字吗？",
+     "pinyin": "Jíshǐ hěn máng, nǐ yě měitiān xiě Hànzì ma?",
+     "id": "Meskipun sibuk, kamu tetap menulis Hanzi setiap hari?",
+     "en": "Even when busy, do you write characters every day?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "对。我把生词写在笔记本上，不认识的字就查词典。",
+     "pinyin": "Duì. Wǒ bǎ shēngcí xiě zài bǐjìběn shang, bú rènshi de zì jiù chá cídiǎn.",
+     "id": "Iya. Aku menulis kata baru di buku catatan, huruf yang belum kukenal kucari di kamus.",
+     "en": "Yes. I write new words in my notebook and look up unknown characters in the dictionary."
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Apa yang Kopi lakukan dengan huruf yang belum dikenal?",
+      "en": "What does Kopi do with unknown characters?"
+     },
+     "options": [
+      {
+       "id": "Mencarinya di kamus",
+       "en": "Looks them up in the dictionary"
+      },
+      {
+       "id": "Mengabaikannya",
+       "en": "Ignores them"
+      },
+      {
+       "id": "Bertanya pada guru",
+       "en": "Asks the teacher"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r5_1",
+   "hskLevel": 5,
+   "title": {
+    "id": "Memasak bersama",
+    "en": "Cooking together"
+   },
+   "lines": [
+    {
+     "speaker": "kopi",
+     "hanzi": "今天做土豆和黄瓜吧。",
+     "pinyin": "Jīntiān zuò tǔdòu hé huángguā ba.",
+     "id": "Hari ini kita masak kentang dan mentimun yuk.",
+     "en": "Let's cook potatoes and cucumber today."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "要放辣椒吗？",
+     "pinyin": "Yào fàng làjiāo ma?",
+     "id": "Pakai cabai?",
+     "en": "Should we add chili?"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "难道你不怕辣吗？",
+     "pinyin": "Nándào nǐ bú pà là ma?",
+     "id": "Masa kamu tidak takut pedas?",
+     "en": "Don't tell me you're not afraid of spicy food?"
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "我最喜欢辣的！",
+     "pinyin": "Wǒ zuì xǐhuan là de!",
+     "id": "Aku paling suka yang pedas!",
+     "en": "Spicy is my favorite!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Apa yang ingin Bao tambahkan?",
+      "en": "What does Bao want to add?"
+     },
+     "options": [
+      {
+       "id": "Cabai",
+       "en": "Chili"
+      },
+      {
+       "id": "Gula",
+       "en": "Sugar"
+      },
+      {
+       "id": "Telur",
+       "en": "Eggs"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "r5_2",
+   "hskLevel": 5,
+   "title": {
+    "id": "Kamar baru",
+    "en": "A new bedroom"
+   },
+   "lines": [
+    {
+     "speaker": "bao",
+     "hanzi": "你的卧室真大！",
+     "pinyin": "Nǐ de wòshì zhēn dà!",
+     "id": "Kamar tidurmu besar sekali!",
+     "en": "Your bedroom is really big!"
+    },
+    {
+     "speaker": "kopi",
+     "hanzi": "是我哥哥设计的，他是工程师。",
+     "pinyin": "Shì wǒ gēge shèjì de, tā shì gōngchéngshī.",
+     "id": "Kakakku yang merancangnya, dia seorang insinyur.",
+     "en": "My older brother designed it, he is an engineer."
+    },
+    {
+     "speaker": "bao",
+     "hanzi": "既然这么好，我就常来玩儿吧！",
+     "pinyin": "Jìrán zhème hǎo, wǒ jiù cháng lái wánr ba!",
+     "id": "Karena sebagus ini, aku akan sering main ke sini!",
+     "en": "Since it's this nice, I'll come over often!"
+    }
+   ],
+   "questions": [
+    {
+     "question": {
+      "id": "Siapa yang merancang kamar Kopi?",
+      "en": "Who designed Kopi's bedroom?"
+     },
+     "options": [
+      {
+       "id": "Kakak laki-lakinya",
+       "en": "His older brother"
+      },
+      {
+       "id": "Ayahnya",
+       "en": "His dad"
+      },
+      {
+       "id": "Bao",
+       "en": "Bao"
+      }
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

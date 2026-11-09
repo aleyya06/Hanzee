@@ -1,0 +1,352 @@
+{
+ "items": [
+  {
+   "id": "food_drinks",
+   "title": {
+    "id": "Makanan & Minuman",
+    "en": "Food & drinks"
+   },
+   "tone": "write",
+   "covers": [
+    "rice",
+    "tea"
+   ],
+   "visual": true
+  },
+  {
+   "id": "fruits",
+   "title": {
+    "id": "Buah",
+    "en": "Fruits"
+   },
+   "tone": "grow",
+   "covers": [
+    "apple",
+    "banana"
+   ],
+   "visual": true
+  },
+  {
+   "id": "vegetables",
+   "title": {
+    "id": "Sayuran",
+    "en": "Vegetables"
+   },
+   "tone": "grow",
+   "covers": [
+    "tomato",
+    "cucumber"
+   ],
+   "visual": true
+  },
+  {
+   "id": "animals",
+   "title": {
+    "id": "Hewan",
+    "en": "Animals"
+   },
+   "tone": "reward",
+   "covers": [
+    "cat",
+    "dog"
+   ],
+   "visual": true
+  },
+  {
+   "id": "household",
+   "title": {
+    "id": "Barang Rumah",
+    "en": "Household objects"
+   },
+   "tone": "learn",
+   "covers": [
+    "cup",
+    "lamp"
+   ],
+   "visual": true
+  },
+  {
+   "id": "furniture",
+   "title": {
+    "id": "Perabot",
+    "en": "Furniture"
+   },
+   "tone": "reward",
+   "covers": [
+    "chair",
+    "table"
+   ],
+   "visual": true
+  },
+  {
+   "id": "school",
+   "title": {
+    "id": "Alat Sekolah",
+    "en": "School supplies"
+   },
+   "tone": "learn",
+   "covers": [
+    "book",
+    "pencil"
+   ],
+   "visual": true
+  },
+  {
+   "id": "clothing",
+   "title": {
+    "id": "Pakaian",
+    "en": "Clothing"
+   },
+   "tone": "write",
+   "covers": [
+    "clothes",
+    "hat"
+   ],
+   "visual": true
+  },
+  {
+   "id": "transport",
+   "title": {
+    "id": "Transportasi",
+    "en": "Transportation"
+   },
+   "tone": "learn",
+   "covers": [
+    "bus",
+    "plane"
+   ],
+   "visual": true
+  },
+  {
+   "id": "family",
+   "title": {
+    "id": "Keluarga",
+    "en": "Family"
+   },
+   "tone": "write",
+   "covers": [
+    "mascot_duo"
+   ],
+   "visual": true
+  },
+  {
+   "id": "body",
+   "title": {
+    "id": "Anggota Tubuh",
+    "en": "Body parts"
+   },
+   "tone": "write",
+   "covers": [
+    "eye",
+    "hand"
+   ],
+   "visual": true
+  },
+  {
+   "id": "places",
+   "title": {
+    "id": "Tempat",
+    "en": "Places"
+   },
+   "tone": "grow",
+   "covers": [
+    "school",
+    "shop"
+   ],
+   "visual": true
+  },
+  {
+   "id": "nature",
+   "title": {
+    "id": "Alam",
+    "en": "Nature"
+   },
+   "tone": "grow",
+   "covers": [
+    "tree",
+    "sun"
+   ],
+   "visual": true
+  },
+  {
+   "id": "colors",
+   "title": {
+    "id": "Warna",
+    "en": "Colors"
+   },
+   "tone": "reward",
+   "covers": [
+    "palette"
+   ],
+   "visual": true
+  },
+  {
+   "id": "numbers",
+   "title": {
+    "id": "Angka",
+    "en": "Numbers"
+   },
+   "tone": "reward",
+   "covers": [
+    "count_3"
+   ],
+   "visual": true
+  },
+  {
+   "id": "activities",
+   "title": {
+    "id": "Kegiatan Sehari-hari",
+    "en": "Daily activities"
+   },
+   "tone": "learn",
+   "covers": [
+    "eat",
+    "sleep"
+   ],
+   "visual": true
+  },
+  {
+   "id": "people",
+   "title": {
+    "id": "Orang & Profesi",
+    "en": "People & professions"
+   },
+   "tone": "grow",
+   "covers": [
+    "doctor",
+    "teacher"
+   ],
+   "visual": true
+  },
+  {
+   "id": "basics",
+   "title": {
+    "id": "Dasar & Ungkapan",
+    "en": "Basics & expressions"
+   },
+   "tone": "learn",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "time",
+   "title": {
+    "id": "Waktu & Tanggal",
+    "en": "Time & dates"
+   },
+   "tone": "reward",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "describing",
+   "title": {
+    "id": "Kata Sifat",
+    "en": "Describing words"
+   },
+   "tone": "write",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "function_words",
+   "title": {
+    "id": "Kata Tugas",
+    "en": "Function words"
+   },
+   "tone": "learn",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "feelings",
+   "title": {
+    "id": "Perasaan & Sikap",
+    "en": "Feelings & attitudes"
+   },
+   "tone": "write",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "communication",
+   "title": {
+    "id": "Komunikasi & Media",
+    "en": "Communication & media"
+   },
+   "tone": "learn",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "study",
+   "title": {
+    "id": "Belajar & Ilmu",
+    "en": "Study & knowledge"
+   },
+   "tone": "learn",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "work",
+   "title": {
+    "id": "Pekerjaan & Ekonomi",
+    "en": "Work & economy"
+   },
+   "tone": "grow",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "shopping",
+   "title": {
+    "id": "Belanja & Uang",
+    "en": "Shopping & money"
+   },
+   "tone": "reward",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "health",
+   "title": {
+    "id": "Kesehatan",
+    "en": "Health"
+   },
+   "tone": "grow",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "sports",
+   "title": {
+    "id": "Olahraga, Hobi & Seni",
+    "en": "Sports, hobbies & arts"
+   },
+   "tone": "reward",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "society",
+   "title": {
+    "id": "Masyarakat & Budaya",
+    "en": "Society & culture"
+   },
+   "tone": "grow",
+   "covers": [],
+   "visual": false
+  },
+  {
+   "id": "ideas",
+   "title": {
+    "id": "Konsep & Gagasan",
+    "en": "Ideas & concepts"
+   },
+   "tone": "write",
+   "covers": [],
+   "visual": false
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "items": [
+  {
+   "id": "g_grass",
+   "title": {
+    "id": "Rumput",
+    "en": "Grass tuft"
+   },
+   "illustration": "grass",
+   "unlockType": "xp",
+   "unlockValue": 0,
+   "x": 0.18,
+   "y": 0.86
+  },
+  {
+   "id": "g_flower",
+   "title": {
+    "id": "Bunga",
+    "en": "Flower"
+   },
+   "illustration": "flower",
+   "unlockType": "xp",
+   "unlockValue": 50,
+   "x": 0.36,
+   "y": 0.8
+  },
+  {
+   "id": "g_butterfly",
+   "title": {
+    "id": "Kupu-kupu",
+    "en": "Butterfly"
+   },
+   "illustration": "butterfly",
+   "unlockType": "xp",
+   "unlockValue": 150,
+   "x": 0.62,
+   "y": 0.44
+  },
+  {
+   "id": "g_tree",
+   "title": {
+    "id": "Pohon",
+    "en": "Tree"
+   },
+   "illustration": "tree",
+   "unlockType": "xp",
+   "unlockValue": 300,
+   "x": 0.8,
+   "y": 0.62
+  },
+  {
+   "id": "g_bird",
+   "title": {
+    "id": "Burung",
+    "en": "Bird"
+   },
+   "illustration": "bird",
+   "unlockType": "xp",
+   "unlockValue": 500,
+   "x": 0.26,
+   "y": 0.4
+  },
+  {
+   "id": "g_river",
+   "title": {
+    "id": "Sungai kecil",
+    "en": "Little stream"
+   },
+   "illustration": "river",
+   "unlockType": "xp",
+   "unlockValue": 800,
+   "x": 0.5,
+   "y": 0.9
+  },
+  {
+   "id": "g_rabbit",
+   "title": {
+    "id": "Kelinci",
+    "en": "Rabbit"
+   },
+   "illustration": "rabbit",
+   "unlockType": "xp",
+   "unlockValue": 1200,
+   "x": 0.66,
+   "y": 0.84
+  },
+  {
+   "id": "g_panda",
+   "title": {
+    "id": "Panda",
+    "en": "Panda"
+   },
+   "illustration": "panda_animal",
+   "unlockType": "xp",
+   "unlockValue": 2000,
+   "x": 0.4,
+   "y": 0.66
+  },
+  {
+   "id": "g_sun",
+   "title": {
+    "id": "Matahari pagi",
+    "en": "Morning sun"
+   },
+   "illustration": "sun",
+   "unlockType": "achievement",
+   "unlockValue": "streak_3",
+   "x": 0.16,
+   "y": 0.16
+  },
+  {
+   "id": "g_moon",
+   "title": {
+    "id": "Bulan",
+    "en": "Moon"
+   },
+   "illustration": "moon",
+   "unlockType": "achievement",
+   "unlockValue": "streak_7",
+   "x": 0.84,
+   "y": 0.16
+  },
+  {
+   "id": "g_tea",
+   "title": {
+    "id": "Meja teh",
+    "en": "Tea table"
+   },
+   "illustration": "tea",
+   "unlockType": "achievement",
+   "unlockValue": "daily_flow",
+   "x": 0.88,
+   "y": 0.88
+  }
+ ]
+}

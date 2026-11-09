@@ -1,0 +1,700 @@
+{
+ "meta": {
+  "status": "character glosses written for Hanzee; stroke data from Make Me a Hanzi via hanzi-writer-data (Arphic Public License)."
+ },
+ "items": [
+  {
+   "char": "一",
+   "pinyin": "yī",
+   "meaningId": "satu",
+   "meaningEn": "one",
+   "hskLevel": 1
+  },
+  {
+   "char": "二",
+   "pinyin": "èr",
+   "meaningId": "dua",
+   "meaningEn": "two",
+   "hskLevel": 1
+  },
+  {
+   "char": "三",
+   "pinyin": "sān",
+   "meaningId": "tiga",
+   "meaningEn": "three",
+   "hskLevel": 1
+  },
+  {
+   "char": "十",
+   "pinyin": "shí",
+   "meaningId": "sepuluh",
+   "meaningEn": "ten",
+   "hskLevel": 1
+  },
+  {
+   "char": "人",
+   "pinyin": "rén",
+   "meaningId": "orang",
+   "meaningEn": "person",
+   "hskLevel": 1
+  },
+  {
+   "char": "大",
+   "pinyin": "dà",
+   "meaningId": "besar",
+   "meaningEn": "big",
+   "hskLevel": 1
+  },
+  {
+   "char": "小",
+   "pinyin": "xiǎo",
+   "meaningId": "kecil",
+   "meaningEn": "small",
+   "hskLevel": 1
+  },
+  {
+   "char": "中",
+   "pinyin": "zhōng",
+   "meaningId": "tengah",
+   "meaningEn": "middle",
+   "hskLevel": 1
+  },
+  {
+   "char": "日",
+   "pinyin": "rì",
+   "meaningId": "matahari; hari",
+   "meaningEn": "sun; day",
+   "hskLevel": 1
+  },
+  {
+   "char": "月",
+   "pinyin": "yuè",
+   "meaningId": "bulan",
+   "meaningEn": "moon; month",
+   "hskLevel": 1
+  },
+  {
+   "char": "水",
+   "pinyin": "shuǐ",
+   "meaningId": "air",
+   "meaningEn": "water",
+   "hskLevel": 1
+  },
+  {
+   "char": "火",
+   "pinyin": "huǒ",
+   "meaningId": "api",
+   "meaningEn": "fire",
+   "hskLevel": 1
+  },
+  {
+   "char": "上",
+   "pinyin": "shàng",
+   "meaningId": "atas",
+   "meaningEn": "up",
+   "hskLevel": 1
+  },
+  {
+   "char": "下",
+   "pinyin": "xià",
+   "meaningId": "bawah",
+   "meaningEn": "down",
+   "hskLevel": 1
+  },
+  {
+   "char": "四",
+   "pinyin": "sì",
+   "meaningId": "empat",
+   "meaningEn": "four",
+   "hskLevel": 1
+  },
+  {
+   "char": "五",
+   "pinyin": "wǔ",
+   "meaningId": "lima",
+   "meaningEn": "five",
+   "hskLevel": 1
+  },
+  {
+   "char": "六",
+   "pinyin": "liù",
+   "meaningId": "enam",
+   "meaningEn": "six",
+   "hskLevel": 1
+  },
+  {
+   "char": "七",
+   "pinyin": "qī",
+   "meaningId": "tujuh",
+   "meaningEn": "seven",
+   "hskLevel": 1
+  },
+  {
+   "char": "八",
+   "pinyin": "bā",
+   "meaningId": "delapan",
+   "meaningEn": "eight",
+   "hskLevel": 1
+  },
+  {
+   "char": "九",
+   "pinyin": "jiǔ",
+   "meaningId": "sembilan",
+   "meaningEn": "nine",
+   "hskLevel": 1
+  },
+  {
+   "char": "你",
+   "pinyin": "nǐ",
+   "meaningId": "kamu",
+   "meaningEn": "you",
+   "hskLevel": 1
+  },
+  {
+   "char": "好",
+   "pinyin": "hǎo",
+   "meaningId": "baik",
+   "meaningEn": "good",
+   "hskLevel": 1
+  },
+  {
+   "char": "我",
+   "pinyin": "wǒ",
+   "meaningId": "saya",
+   "meaningEn": "I; me",
+   "hskLevel": 1
+  },
+  {
+   "char": "他",
+   "pinyin": "tā",
+   "meaningId": "dia (laki-laki)",
+   "meaningEn": "he",
+   "hskLevel": 1
+  },
+  {
+   "char": "她",
+   "pinyin": "tā",
+   "meaningId": "dia (perempuan)",
+   "meaningEn": "she",
+   "hskLevel": 1
+  },
+  {
+   "char": "是",
+   "pinyin": "shì",
+   "meaningId": "adalah",
+   "meaningEn": "to be",
+   "hskLevel": 1
+  },
+  {
+   "char": "不",
+   "pinyin": "bù",
+   "meaningId": "tidak",
+   "meaningEn": "not",
+   "hskLevel": 1
+  },
+  {
+   "char": "在",
+   "pinyin": "zài",
+   "meaningId": "di; sedang",
+   "meaningEn": "at; in",
+   "hskLevel": 1
+  },
+  {
+   "char": "有",
+   "pinyin": "yǒu",
+   "meaningId": "punya; ada",
+   "meaningEn": "to have",
+   "hskLevel": 1
+  },
+  {
+   "char": "爸",
+   "pinyin": "bà",
+   "meaningId": "ayah",
+   "meaningEn": "dad",
+   "hskLevel": 1
+  },
+  {
+   "char": "妈",
+   "pinyin": "mā",
+   "meaningId": "ibu",
+   "meaningEn": "mom",
+   "hskLevel": 1
+  },
+  {
+   "char": "女",
+   "pinyin": "nǚ",
+   "meaningId": "perempuan",
+   "meaningEn": "woman",
+   "hskLevel": 1
+  },
+  {
+   "char": "子",
+   "pinyin": "zǐ",
+   "meaningId": "anak",
+   "meaningEn": "child",
+   "hskLevel": 1
+  },
+  {
+   "char": "家",
+   "pinyin": "jiā",
+   "meaningId": "rumah",
+   "meaningEn": "home",
+   "hskLevel": 1
+  },
+  {
+   "char": "吃",
+   "pinyin": "chī",
+   "meaningId": "makan",
+   "meaningEn": "to eat",
+   "hskLevel": 1
+  },
+  {
+   "char": "喝",
+   "pinyin": "hē",
+   "meaningId": "minum",
+   "meaningEn": "to drink",
+   "hskLevel": 1
+  },
+  {
+   "char": "茶",
+   "pinyin": "chá",
+   "meaningId": "teh",
+   "meaningEn": "tea",
+   "hskLevel": 1
+  },
+  {
+   "char": "米",
+   "pinyin": "mǐ",
+   "meaningId": "beras",
+   "meaningEn": "rice",
+   "hskLevel": 1
+  },
+  {
+   "char": "果",
+   "pinyin": "guǒ",
+   "meaningId": "buah",
+   "meaningEn": "fruit",
+   "hskLevel": 1
+  },
+  {
+   "char": "书",
+   "pinyin": "shū",
+   "meaningId": "buku",
+   "meaningEn": "book",
+   "hskLevel": 1
+  },
+  {
+   "char": "学",
+   "pinyin": "xué",
+   "meaningId": "belajar",
+   "meaningEn": "to study",
+   "hskLevel": 1
+  },
+  {
+   "char": "生",
+   "pinyin": "shēng",
+   "meaningId": "lahir; hidup",
+   "meaningEn": "life; to be born",
+   "hskLevel": 1
+  },
+  {
+   "char": "电",
+   "pinyin": "diàn",
+   "meaningId": "listrik",
+   "meaningEn": "electricity",
+   "hskLevel": 1
+  },
+  {
+   "char": "车",
+   "pinyin": "chē",
+   "meaningId": "kendaraan",
+   "meaningEn": "vehicle",
+   "hskLevel": 1
+  },
+  {
+   "char": "看",
+   "pinyin": "kàn",
+   "meaningId": "melihat",
+   "meaningEn": "to look",
+   "hskLevel": 1
+  },
+  {
+   "char": "听",
+   "pinyin": "tīng",
+   "meaningId": "mendengar",
+   "meaningEn": "to listen",
+   "hskLevel": 1
+  },
+  {
+   "char": "说",
+   "pinyin": "shuō",
+   "meaningId": "berbicara",
+   "meaningEn": "to speak",
+   "hskLevel": 1
+  },
+  {
+   "char": "写",
+   "pinyin": "xiě",
+   "meaningId": "menulis",
+   "meaningEn": "to write",
+   "hskLevel": 1
+  },
+  {
+   "char": "字",
+   "pinyin": "zì",
+   "meaningId": "huruf",
+   "meaningEn": "character",
+   "hskLevel": 1
+  },
+  {
+   "char": "天",
+   "pinyin": "tiān",
+   "meaningId": "langit; hari",
+   "meaningEn": "sky; day",
+   "hskLevel": 1
+  },
+  {
+   "char": "年",
+   "pinyin": "nián",
+   "meaningId": "tahun",
+   "meaningEn": "year",
+   "hskLevel": 1
+  },
+  {
+   "char": "猫",
+   "pinyin": "māo",
+   "meaningId": "kucing",
+   "meaningEn": "cat",
+   "hskLevel": 1
+  },
+  {
+   "char": "狗",
+   "pinyin": "gǒu",
+   "meaningId": "anjing",
+   "meaningEn": "dog",
+   "hskLevel": 1
+  },
+  {
+   "char": "钱",
+   "pinyin": "qián",
+   "meaningId": "uang",
+   "meaningEn": "money",
+   "hskLevel": 1
+  },
+  {
+   "char": "来",
+   "pinyin": "lái",
+   "meaningId": "datang",
+   "meaningEn": "to come",
+   "hskLevel": 1
+  },
+  {
+   "char": "去",
+   "pinyin": "qù",
+   "meaningId": "pergi",
+   "meaningEn": "to go",
+   "hskLevel": 1
+  },
+  {
+   "char": "红",
+   "pinyin": "hóng",
+   "meaningId": "merah",
+   "meaningEn": "red",
+   "hskLevel": 2
+  },
+  {
+   "char": "白",
+   "pinyin": "bái",
+   "meaningId": "putih",
+   "meaningEn": "white",
+   "hskLevel": 2
+  },
+  {
+   "char": "黑",
+   "pinyin": "hēi",
+   "meaningId": "hitam",
+   "meaningEn": "black",
+   "hskLevel": 2
+  },
+  {
+   "char": "鱼",
+   "pinyin": "yú",
+   "meaningId": "ikan",
+   "meaningEn": "fish",
+   "hskLevel": 2
+  },
+  {
+   "char": "门",
+   "pinyin": "mén",
+   "meaningId": "pintu",
+   "meaningEn": "door",
+   "hskLevel": 2
+  },
+  {
+   "char": "手",
+   "pinyin": "shǒu",
+   "meaningId": "tangan",
+   "meaningEn": "hand",
+   "hskLevel": 2
+  },
+  {
+   "char": "雪",
+   "pinyin": "xuě",
+   "meaningId": "salju",
+   "meaningEn": "snow",
+   "hskLevel": 2
+  },
+  {
+   "char": "哥",
+   "pinyin": "gē",
+   "meaningId": "kakak laki-laki",
+   "meaningEn": "older brother",
+   "hskLevel": 2
+  },
+  {
+   "char": "姐",
+   "pinyin": "jiě",
+   "meaningId": "kakak perempuan",
+   "meaningEn": "older sister",
+   "hskLevel": 2
+  },
+  {
+   "char": "弟",
+   "pinyin": "dì",
+   "meaningId": "adik laki-laki",
+   "meaningEn": "younger brother",
+   "hskLevel": 2
+  },
+  {
+   "char": "妹",
+   "pinyin": "mèi",
+   "meaningId": "adik perempuan",
+   "meaningEn": "younger sister",
+   "hskLevel": 2
+  },
+  {
+   "char": "早",
+   "pinyin": "zǎo",
+   "meaningId": "pagi",
+   "meaningEn": "early",
+   "hskLevel": 2
+  },
+  {
+   "char": "晚",
+   "pinyin": "wǎn",
+   "meaningId": "malam",
+   "meaningEn": "late; evening",
+   "hskLevel": 2
+  },
+  {
+   "char": "起",
+   "pinyin": "qǐ",
+   "meaningId": "bangun",
+   "meaningEn": "to rise",
+   "hskLevel": 2
+  },
+  {
+   "char": "床",
+   "pinyin": "chuáng",
+   "meaningId": "ranjang",
+   "meaningEn": "bed",
+   "hskLevel": 2
+  },
+  {
+   "char": "船",
+   "pinyin": "chuán",
+   "meaningId": "perahu",
+   "meaningEn": "boat",
+   "hskLevel": 2
+  },
+  {
+   "char": "牛",
+   "pinyin": "niú",
+   "meaningId": "sapi",
+   "meaningEn": "cow",
+   "hskLevel": 2
+  },
+  {
+   "char": "碗",
+   "pinyin": "wǎn",
+   "meaningId": "mangkuk",
+   "meaningEn": "bowl",
+   "hskLevel": 3
+  },
+  {
+   "char": "面",
+   "pinyin": "miàn",
+   "meaningId": "mi; wajah",
+   "meaningEn": "noodles; face",
+   "hskLevel": 3
+  },
+  {
+   "char": "包",
+   "pinyin": "bāo",
+   "meaningId": "bungkus; tas",
+   "meaningEn": "wrap; bag",
+   "hskLevel": 3
+  },
+  {
+   "char": "盘",
+   "pinyin": "pán",
+   "meaningId": "piring",
+   "meaningEn": "plate",
+   "hskLevel": 3
+  },
+  {
+   "char": "鞋",
+   "pinyin": "xié",
+   "meaningId": "sepatu",
+   "meaningEn": "shoe",
+   "hskLevel": 3
+  },
+  {
+   "char": "蓝",
+   "pinyin": "lán",
+   "meaningId": "biru",
+   "meaningEn": "blue",
+   "hskLevel": 3
+  },
+  {
+   "char": "绿",
+   "pinyin": "lǜ",
+   "meaningId": "hijau",
+   "meaningEn": "green",
+   "hskLevel": 3
+  },
+  {
+   "char": "黄",
+   "pinyin": "huáng",
+   "meaningId": "kuning",
+   "meaningEn": "yellow",
+   "hskLevel": 3
+  },
+  {
+   "char": "树",
+   "pinyin": "shù",
+   "meaningId": "pohon",
+   "meaningEn": "tree",
+   "hskLevel": 3
+  },
+  {
+   "char": "草",
+   "pinyin": "cǎo",
+   "meaningId": "rumput",
+   "meaningEn": "grass",
+   "hskLevel": 3
+  },
+  {
+   "char": "花",
+   "pinyin": "huā",
+   "meaningId": "bunga",
+   "meaningEn": "flower",
+   "hskLevel": 3
+  },
+  {
+   "char": "河",
+   "pinyin": "hé",
+   "meaningId": "sungai",
+   "meaningEn": "river",
+   "hskLevel": 3
+  },
+  {
+   "char": "耳",
+   "pinyin": "ěr",
+   "meaningId": "telinga",
+   "meaningEn": "ear",
+   "hskLevel": 3
+  },
+  {
+   "char": "鼻",
+   "pinyin": "bí",
+   "meaningId": "hidung",
+   "meaningEn": "nose",
+   "hskLevel": 3
+  },
+  {
+   "char": "鸟",
+   "pinyin": "niǎo",
+   "meaningId": "burung",
+   "meaningEn": "bird",
+   "hskLevel": 3
+  },
+  {
+   "char": "马",
+   "pinyin": "mǎ",
+   "meaningId": "kuda",
+   "meaningEn": "horse",
+   "hskLevel": 3
+  },
+  {
+   "char": "警",
+   "pinyin": "jǐng",
+   "meaningId": "waspada",
+   "meaningEn": "alert",
+   "hskLevel": 4
+  },
+  {
+   "char": "护",
+   "pinyin": "hù",
+   "meaningId": "melindungi",
+   "meaningEn": "to protect",
+   "hskLevel": 4
+  },
+  {
+   "char": "虎",
+   "pinyin": "hǔ",
+   "meaningId": "harimau",
+   "meaningEn": "tiger",
+   "hskLevel": 4
+  },
+  {
+   "char": "窗",
+   "pinyin": "chuāng",
+   "meaningId": "jendela",
+   "meaningEn": "window",
+   "hskLevel": 4
+  },
+  {
+   "char": "笔",
+   "pinyin": "bǐ",
+   "meaningId": "pena",
+   "meaningEn": "pen",
+   "hskLevel": 4
+  },
+  {
+   "char": "词",
+   "pinyin": "cí",
+   "meaningId": "kata",
+   "meaningEn": "word",
+   "hskLevel": 4
+  },
+  {
+   "char": "梨",
+   "pinyin": "lí",
+   "meaningId": "pir",
+   "meaningEn": "pear",
+   "hskLevel": 5
+  },
+  {
+   "char": "兔",
+   "pinyin": "tù",
+   "meaningId": "kelinci",
+   "meaningEn": "rabbit",
+   "hskLevel": 5
+  },
+  {
+   "char": "室",
+   "pinyin": "shì",
+   "meaningId": "ruangan",
+   "meaningEn": "room",
+   "hskLevel": 5
+  },
+  {
+   "char": "师",
+   "pinyin": "shī",
+   "meaningId": "guru; ahli",
+   "meaningEn": "teacher; master",
+   "hskLevel": 5
+  }
+ ]
+}
