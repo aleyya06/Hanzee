@@ -2,7 +2,7 @@
 
 Built web version of Hanzee, a Mandarin learning app for Indonesian and English speakers, HSK 1 to 5.
 
-Live site: https://aleyya06.github.io/hanzee/
+Live site: https://aleyya06.github.io/Hanzee/
 
 This repository holds only the compiled website served by GitHub Pages. It is regenerated on every update, so changes made here directly will be overwritten.
 
