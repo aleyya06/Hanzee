@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "schema": "docs/dialogue.schema.json",
+    "status": "Sample dialogue written for Hanzee to test the Dialogue Bareng feature. Not official HSK material. Words are limited to the app's HSK 1 list. Needs editorial review."
+  },
+  "items": [
+    {
+      "id": "d1_beli_buah",
+      "hsk_level": 1,
+      "unit_id": "hsk1_u4",
+      "sample": true,
+      "scenario_title": { "id": "Beli apel", "en": "Buying apples" },
+      "characters": [
+        { "id": "kopi", "name": "Kopi", "avatar": "mascot:bear", "role": { "id": "Penjual", "en": "Seller" } },
+        { "id": "bao", "name": "Bao", "avatar": "mascot:panda", "role": { "id": "Pembeli", "en": "Buyer" } }
+      ],
+      "lines": [
+        {
+          "speaker_id": "kopi",
+          "hanzi": "你好！你想买什么？",
+          "pinyin": "Nǐ hǎo! Nǐ xiǎng mǎi shénme?",
+          "translation_id": "Halo! Mau beli apa?",
+          "translation_en": "Hi! What would you like to buy?",
+          "audio_source": null
+        },
+        {
+          "speaker_id": "bao",
+          "hanzi": "我想买苹果。苹果多少钱？",
+          "pinyin": "Wǒ xiǎng mǎi píngguǒ. Píngguǒ duōshao qián?",
+          "translation_id": "Aku mau beli apel. Apelnya berapa?",
+          "translation_en": "I'd like some apples. How much are they?",
+          "audio_source": null
+        },
+        {
+          "speaker_id": "kopi",
+          "hanzi": "一个三块。",
+          "pinyin": "Yí ge sān kuài.",
+          "translation_id": "Tiga kuai per buah.",
+          "translation_en": "Three kuai each.",
+          "audio_source": null
+        },
+        {
+          "speaker_id": "bao",
+          "hanzi": "太贵了！两个五块，可以吗？",
+          "pinyin": "Tài guì le! Liǎng ge wǔ kuài, kěyǐ ma?",
+          "translation_id": "Mahal sekali! Dua buah lima kuai, boleh?",
+          "translation_en": "That's too expensive! Two for five kuai, okay?",
+          "audio_source": null
+        },
+        {
+          "speaker_id": "kopi",
+          "hanzi": "可以。你还要什么？",
+          "pinyin": "Kěyǐ. Nǐ hái yào shénme?",
+          "translation_id": "Boleh. Mau apa lagi?",
+          "translation_en": "Okay. Anything else?",
+          "audio_source": null
+        },
+        {
+          "speaker_id": "bao",
+          "hanzi": "不要了，谢谢！给你五块钱。",
+          "pinyin": "Bú yào le, xièxie! Gěi nǐ wǔ kuài qián.",
+          "translation_id": "Sudah, terima kasih! Ini lima kuai.",
+          "translation_en": "That's all, thanks! Here's five kuai.",
+          "audio_source": null
+        },
+        {
+          "speaker_id": "kopi",
+          "hanzi": "谢谢！再见！",
+          "pinyin": "Xièxie! Zàijiàn!",
+          "translation_id": "Terima kasih! Sampai jumpa!",
+          "translation_en": "Thanks! Bye!",
+          "audio_source": null
+        }
+      ],
+      "grammar_blocks": [
+        {
+          "id": "d1_b1",
+          "translation_id": "Aku mau beli apel.",
+          "translation_en": "I'd like to buy apples.",
+          "blocks": [
+            { "hanzi": "我", "pinyin": "wǒ" },
+            { "hanzi": "想", "pinyin": "xiǎng" },
+            { "hanzi": "买", "pinyin": "mǎi" },
+            { "hanzi": "苹果", "pinyin": "píngguǒ" }
+          ],
+          "also_accept": []
+        },
+        {
+          "id": "d1_b2",
+          "translation_id": "Apelnya berapa?",
+          "translation_en": "How much are the apples?",
+          "blocks": [
+            { "hanzi": "苹果", "pinyin": "píngguǒ" },
+            { "hanzi": "多少", "pinyin": "duōshao" },
+            { "hanzi": "钱", "pinyin": "qián" }
+          ],
+          "also_accept": []
+        },
+        {
+          "id": "d1_b3",
+          "translation_id": "Mau apa lagi?",
+          "translation_en": "What else would you like?",
+          "blocks": [
+            { "hanzi": "你", "pinyin": "nǐ" },
+            { "hanzi": "还", "pinyin": "hái" },
+            { "hanzi": "要", "pinyin": "yào" },
+            { "hanzi": "什么", "pinyin": "shénme" }
+          ],
+          "also_accept": []
+        }
+      ]
+    }
+  ]
+}
