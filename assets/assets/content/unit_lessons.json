@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": "docs/unit_lesson.schema.json",
-    "status": "Sample plans written for Hanzee to test the six-stage lesson, using only words and grammar points already in the app's HSK 1 content. Not official HSK material; needs editorial review. Units without a plan here get stages derived from curriculum.json, grammar.json, exercises.json, readings.json and dialogues.json."
+    "status": "Sample plans written for Hanzee to test the six-stage lesson, using only words and grammar points in the app's HSK 1 content (the 2021 HSK 1 list since 2026-11-22). Not official HSK material; needs editorial review. Units without a plan here get stages derived from curriculum.json, grammar.json, exercises.json, readings.json and dialogues.json."
   },
   "items": [
     {
@@ -9,11 +9,51 @@
       "sample": true,
       "stages": {
         "words": {
-          "vocab": ["吃", "喝", "水", "茶", "米饭", "菜", "苹果", "水果", "杯子", "喜欢", "想", "不", "买", "钱", "块", "多少", "商店", "东西", "个", "些", "包子", "不要"]
+          "vocab": [
+            "吃",
+            "喝",
+            "水",
+            "茶",
+            "米饭",
+            "菜",
+            "杯",
+            "水果",
+            "杯子",
+            "喜欢",
+            "想",
+            "不",
+            "买",
+            "钱",
+            "块",
+            "多少",
+            "商店",
+            "东西",
+            "个",
+            "本",
+            "包子",
+            "包"
+          ]
         },
         "word_test": {
-          "quiz": ["吃", "喝", "茶", "米饭", "苹果", "买", "钱", "多少", "商店", "东西"],
-          "speech": ["茶", "苹果", "多少", "喜欢", "不要"],
+          "quiz": [
+            "吃",
+            "喝",
+            "茶",
+            "米饭",
+            "水果",
+            "买",
+            "钱",
+            "多少",
+            "商店",
+            "东西"
+          ],
+          "speech": [
+            "茶",
+            "包子",
+            "多少",
+            "喜欢",
+            "水果"
+          ],
           "pass_ratio": 0.8
         },
         "grammar": {
@@ -24,22 +64,46 @@
               "translation_id": "Saya ingin minum teh.",
               "translation_en": "I want to drink tea.",
               "blocks": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "想", "pinyin": "xiǎng" },
-                { "hanzi": "喝", "pinyin": "hē" },
-                { "hanzi": "茶", "pinyin": "chá" }
+                {
+                  "hanzi": "我",
+                  "pinyin": "wǒ"
+                },
+                {
+                  "hanzi": "想",
+                  "pinyin": "xiǎng"
+                },
+                {
+                  "hanzi": "喝",
+                  "pinyin": "hē"
+                },
+                {
+                  "hanzi": "茶",
+                  "pinyin": "chá"
+                }
               ],
               "also_accept": []
             },
             {
               "id": "u4_g2",
-              "translation_id": "Saya mau beli apel.",
-              "translation_en": "I want to buy apples.",
+              "translation_id": "Saya mau beli bakpao.",
+              "translation_en": "I want to buy steamed buns.",
               "blocks": [
-                { "hanzi": "我", "pinyin": "wǒ" },
-                { "hanzi": "想", "pinyin": "xiǎng" },
-                { "hanzi": "买", "pinyin": "mǎi" },
-                { "hanzi": "苹果", "pinyin": "píngguǒ" }
+                {
+                  "hanzi": "我",
+                  "pinyin": "wǒ"
+                },
+                {
+                  "hanzi": "想",
+                  "pinyin": "xiǎng"
+                },
+                {
+                  "hanzi": "买",
+                  "pinyin": "mǎi"
+                },
+                {
+                  "hanzi": "包子",
+                  "pinyin": "bāozi"
+                }
               ],
               "also_accept": []
             },
@@ -48,10 +112,22 @@
               "translation_id": "Kamu mau makan apa?",
               "translation_en": "What do you want to eat?",
               "blocks": [
-                { "hanzi": "你", "pinyin": "nǐ" },
-                { "hanzi": "想", "pinyin": "xiǎng" },
-                { "hanzi": "吃", "pinyin": "chī" },
-                { "hanzi": "什么", "pinyin": "shénme" }
+                {
+                  "hanzi": "你",
+                  "pinyin": "nǐ"
+                },
+                {
+                  "hanzi": "想",
+                  "pinyin": "xiǎng"
+                },
+                {
+                  "hanzi": "吃",
+                  "pinyin": "chī"
+                },
+                {
+                  "hanzi": "什么",
+                  "pinyin": "shénme"
+                }
               ],
               "also_accept": []
             }
@@ -61,20 +137,52 @@
           "dialogue_id": "d1_beli_buah"
         },
         "quiz": {
-          "listening": ["水果", "商店", "杯子"],
-          "reading": ["米饭", "东西", "包子"],
-          "build": ["u4_g2", "u4_g3"],
-          "writing": ["吃", "茶"],
+          "listening": [
+            "水果",
+            "商店",
+            "杯子"
+          ],
+          "reading": [
+            "米饭",
+            "东西",
+            "包子"
+          ],
+          "build": [
+            "u4_g2",
+            "u4_g3"
+          ],
+          "writing": [
+            "吃",
+            "茶"
+          ],
           "pass_score": 60
         },
         "ai_talk": {
-          "topic": { "id": "Belanja buah", "en": "Shopping for fruit" },
-          "ai_role": { "id": "Penjual buah", "en": "Fruit seller" },
-          "learner_role": { "id": "Pembeli", "en": "Customer" },
+          "topic": {
+            "id": "Beli makanan",
+            "en": "Buying food"
+          },
+          "ai_role": {
+            "id": "Penjual makanan",
+            "en": "Food seller"
+          },
+          "learner_role": {
+            "id": "Pembeli",
+            "en": "Customer"
+          },
           "goals": [
-            { "id": "Tanyakan harga apel", "en": "Ask how much the apples are" },
-            { "id": "Beli dua macam barang", "en": "Buy two kinds of things" },
-            { "id": "Bayar lalu pamit", "en": "Pay and say goodbye" }
+            {
+              "id": "Tanyakan harga bakpao",
+              "en": "Ask how much the buns are"
+            },
+            {
+              "id": "Beli dua macam barang",
+              "en": "Buy two kinds of things"
+            },
+            {
+              "id": "Bayar lalu pamit",
+              "en": "Pay and say goodbye"
+            }
           ],
           "opening": {
             "hanzi": "你好！你想买什么？",
@@ -82,7 +190,16 @@
             "translation_id": "Halo! Mau beli apa?",
             "translation_en": "Hello! What would you like to buy?"
           },
-          "focus_vocab": ["苹果", "水果", "多少", "钱", "块", "买", "个", "不要"],
+          "focus_vocab": [
+            "包子",
+            "水果",
+            "多少",
+            "钱",
+            "块",
+            "买",
+            "个",
+            "杯"
+          ],
           "min_turns": 4
         }
       }

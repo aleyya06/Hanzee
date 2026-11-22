@@ -77,11 +77,11 @@
     "en": "HSK 1 vocabulary"
    },
    "description": {
-    "id": "Pelajari 300 kata, sebanyak kosakata HSK 1.",
-    "en": "Learn 300 words, as many as HSK 1 has."
+    "id": "Pelajari 500 kata, sebanyak kosakata HSK 1.",
+    "en": "Learn 500 words, as many as HSK 1 has."
    },
    "metric": "words",
-   "threshold": 300,
+   "threshold": 500,
    "illustration": "panda_animal"
   },
   {
