@@ -1,9 +1,0 @@
-{
-  "meta": {
-    "status": "Empty until tool/audio/generate_audio.py runs. It synthesizes each word, example and dialogue line with Azure neural voices, uploads the MP3s to the public Supabase Storage bucket 'audio', and writes the paths here. Native-speaker recordings set as audio_url in the content take priority over these files.",
-    "voices": { "female": "zh-CN-XiaoxiaoNeural", "male": "zh-CN-YunxiNeural" }
-  },
-  "base_url": "",
-  "female": {},
-  "male": {}
-}
